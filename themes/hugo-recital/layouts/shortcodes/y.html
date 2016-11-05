@@ -1,0 +1,15 @@
+<script>
+var tag = document.createElement('script')
+tag.src = "https://www.youtube.com/iframe_api"
+var firstScriptTag = document.getElementsByTagName('script')[0]
+firstScriptTag.parentNode.insertBefore(tag, firstScriptTag)
+
+var player
+function onYouTubeIframeAPIReady() {
+  player = new YT.Player('player', {width: '100%', height: '100%', videoId: '{{ index .Params 0 }}'})
+}
+
+function seek(s) {
+  player.seekTo(parseInt(s))
+}
+</script>
