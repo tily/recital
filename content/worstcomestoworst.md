@@ -10,9 +10,10 @@ Worst come to worst
 Worst come to worst, my peoples come first  
 Worst come to worst  
 Worst come to worst, my peoples come first  
+
+* 6/6 {{<t "21.2">}} Some people got good friends, at night I live my life right  
   
 [Verse 1: Evidence]  
-* 5/6 {{<t "21.2">}} Some people got good friends, at night I live my life right  
 * 1/6 {{<t "24.2">}} Intense, on the edge,  
 * 2/6 {{<t "26.7">}} on the wild / I'm from the group where friction leads to  
 * 3/6 {{<t "29.1">}} fire / Stack your bricks, the time is take your pick  
