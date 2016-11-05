@@ -11,6 +11,7 @@ Worst come to worst, my peoples come first
 Worst come to worst  
 Worst come to worst, my peoples come first  
 
+[Verse 0: Evidence]  
 * 6/6 {{<t "21.2">}} Some people got good friends, at night I live my life right  
   
 [Verse 1: Evidence]  
