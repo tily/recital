@@ -1,4 +1,4 @@
-baseurl = "http://example.org/"
+baseurl = "https://tily.github.io/recital/"
 title = "https://tily.github.io/recital"
 languageCode = "en-us"
 theme = "hugo-recital"
