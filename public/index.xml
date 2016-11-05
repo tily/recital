@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>https://tily.github.io/recital</title>
-    <link>http://example.org/index.xml</link>
+    <link>https://tily.github.io/recital/index.xml</link>
     <description>Recent content on https://tily.github.io/recital</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 10:14:03 +0900</lastBuildDate>
-    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tily.github.io/recital/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title> Worst Comes to Worst</title>
-      <link>http://example.org/worstcomestoworst/</link>
+      <link>https://tily.github.io/recital/worstcomestoworst/</link>
       <pubDate>Sat, 05 Nov 2016 10:14:03 +0900</pubDate>
       
-      <guid>http://example.org/worstcomestoworst/</guid>
+      <guid>https://tily.github.io/recital/worstcomestoworst/</guid>
       <description>&lt;p&gt;[Babu mixing]&lt;br /&gt;
 Worst come to worst, my peoples come first&lt;br /&gt;
 Worst come to worst&lt;br /&gt;
