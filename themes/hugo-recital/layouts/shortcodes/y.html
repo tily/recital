@@ -10,6 +10,11 @@ function onYouTubeIframeAPIReady() {
 }
 
 function seek(s) {
+  player.playVideo()
   player.seekTo(parseFloat(s))
+}
+
+function pause() {
+  player.pauseVideo()
 }
 </script>
