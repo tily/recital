@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Stanford Speech</title>
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" />
+  </head>
+  <body>
+    <header>
+      <nav class="navbar navbar-default navbar-fixed-top" style="background-color: white; border: none;">
+        <div class="container">
+          <div class="navbar-header">
+            <a class="navbar-brand" href="https://tily.github.io/recital/">https://tily.github.io/recital</a>
+          </div>
+        </div>
+      </nav>
+    
+    </header>
+
+<div class="container" style="margin-top: 50px">
+  <div class="row">
+    <div class="col-sm-5">
+      <div class="affix">
+        <div class="well" id="player"></div>
+      </div>
+    </div>
+    <div class="col-sm-7">
+      
+
+<h2 id="beginning">Beginning</h2>
+
+<ul>
+<li><a href="javascript:void(0)" onmousedown="seek(&#34;22&#34;)" onmouseup="pause()">[22]</a>
+ Thank you.</li>
+<li><a href="javascript:void(0)" onmousedown="seek(&#34;27.5&#34;)" onmouseup="pause()">[27.5]</a>
+ I am honored to be with you today for your commencement from one of the finest universities in the world.<br /></li>
+<li><a href="javascript:void(0)" onmousedown="seek(&#34;36.5&#34;)" onmouseup="pause()">[36.5]</a>
+ Truth be told, I never graduated from college.<br /></li>
+<li><a href="javascript:void(0)" onmousedown="seek(&#34;41.7&#34;)" onmouseup="pause()">[41.7]</a>
+ And this is the closest I’ve ever gotten to a college graduation.<br /></li>
+<li><a href="javascript:void(0)" onmousedown="seek(&#34;48.5&#34;)" onmouseup="pause()">[48.5]</a>
+ Today I want to tell you three stories from my life.<br /></li>
+<li><a href="javascript:void(0)" onmousedown="seek(&#34;52&#34;)" onmouseup="pause()">[52]</a>
+ That’s it. No big deal. Just three stories.<br /></li>
+</ul>
+
+<h2 id="connecting-the-dots">Connecting the dots</h2>
+
+<ul>
+<li>The first story is about connecting the dots.</li>
+
+<li><p>I dropped out of Reed College after the first 6 months, but then stayed around as a drop-in for another 18 months or so before I really quit.</p></li>
+
+<li><p>So why did I drop out? It started before I was born.</p></li>
+
+<li><p>My biological mother was a young, unwed graduate student, and she decided to put me up for adoption.</p></li>
+
+<li><p>She felt very strongly that I should be adopted by college graduates, so everything was all set for me to be adopted at birth by a lawyer and his wife.</p></li>
+
+<li><p>Except that when I popped out they decided at the last minute that they really wanted a girl.</p></li>
+</ul>
+
+<p>So my parents, who were on a waiting list, got a call in the middle of the night asking: “We’ve got an unexpected baby boy; do you want him?”
+They said: “Of course.”
+My biological mother found out later that my mother had never graduated from college and that my father had never graduated from high school.
+She refused to sign the final adoption papers.
+She only relented a few months later when my parents promised that I would go to college.
+This was the start in my life.</p>
+
+<p>And 17 years later I did go to college. But I naively chose a college that was almost as expensive as Stanford, and all of my working-class parents’ savings were being spent on my college tuition. After six months, I couldn’t see the value in it. I had no idea what I wanted to do with my life and no idea how college was going to help me figure it out. And here I was spending all of the money my parents had saved their entire life. So I decided to drop out and trust that it would all work out OK. It was pretty scary at the time, but looking back it was one of the best decisions I ever made.</p>
+
+<script>
+var tag = document.createElement('script')
+tag.src = "https://www.youtube.com/iframe_api"
+var firstScriptTag = document.getElementsByTagName('script')[0]
+firstScriptTag.parentNode.insertBefore(tag, firstScriptTag)
+
+var player
+function onYouTubeIframeAPIReady() {
+  player = new YT.Player('player', {width: '100%', height: '100%', videoId: 'VyzqHFdzBKg'})
+}
+
+function seek(s) {
+  player.playVideo()
+  player.seekTo(parseFloat(s))
+}
+
+function pause() {
+  player.pauseVideo()
+}
+</script>
+
+
+    </div>
+  </div>
+</div>
+  </body>
+</html>
+
