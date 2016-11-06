@@ -31,6 +31,17 @@ title = "#{title}"
     else
       content = [content, embed].join("\n") 
     end
+  end
+
+  desc "annotate", "annotate timings to video"
+  def annotate(bpm, start, path)
+    spb = 60.0 / bpm.to_f
+    start = start.to_f - spb * 4
+    content = File.read(path)
+    content.gsub!(/{{<t (.+?)>}}/) do
+      start += spb * 4
+      %Q|{{<t "#{start.round(2)}">}}|
+    end
     File.write(path, content)
   end
 end
