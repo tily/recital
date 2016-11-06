@@ -26,6 +26,7 @@ title = "#{title}"
     video_id = CGI.parse(URI.parse(url).query)["v"].first
     content = File.read(path)
     embed = "{{<y #{video_id}>}}"
+p embed
     if content.match(/{{<y (.+?)>}}/)
       content = content.gsub(/{{<y (.+?)>}}/) { embed }
     else
