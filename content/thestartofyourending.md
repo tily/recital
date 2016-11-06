@@ -1,14 +1,18 @@
 +++
 draft = false
 date = "2016-11-06T18:02:12+09:00"
-title = " Mobb Deep The Start of Your Ending (41st Side) Lyrics"
+title = "The Start of Your Ending"
 +++
             
-[Intro: Havoc]  
+[Intro 1: Havoc]  
+
 * {{<t "0.1">}} You knowhatI'msayin'? I wanna  
 * {{<t "2.86">}} say what's up to my man / Louie you know he's  
 * {{<t "5.62">}} still here / Drop this one for  
 * {{<t "8.38">}} you you know / And for those who don't  
+
+[Intro 2: Havoc]  
+
 * {{<t "11.13">}} know / The 41st  
 * {{<t "13.89">}} Side  
 * {{<t "16.65">}}   
