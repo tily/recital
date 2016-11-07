@@ -2,6 +2,7 @@
 draft = false
 date = "2016-11-05T10:14:03+09:00"
 title = " Worst Comes to Worst"
+origin_url = "http://genius.com/Dilated-peoples-worst-comes-to-worst-lyrics"
 +++
 
 [Babu mixing]  

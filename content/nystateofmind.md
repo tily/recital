@@ -2,6 +2,7 @@
 draft = false
 date = "2016-11-06T14:28:37+09:00"
 title = " N.Y. State of Mind"
+origin_url = "http://genius.com/Nas-ny-state-of-mind-lyrics"
 +++
 
 [Produced by DJ Premier]  

@@ -2,6 +2,7 @@
 draft = false
 date = "2016-11-06T18:02:12+09:00"
 title = "The Start of Your Ending"
+origin_url = "http://genius.com/Mobb-deep-the-start-of-your-ending-41st-side-lyrics"
 +++
             
 [Intro 1: Havoc]  

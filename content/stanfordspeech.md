@@ -1,6 +1,7 @@
 +++
 date = "2016-11-06T15:58:04+09:00"
 title = "Stanford Speech"
+origin_url = "http://singjupost.com/steve-jobs-2005-stanford-commencement-address-full-transcript/"
 +++
 
 ## Beginning
