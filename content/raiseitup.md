@@ -3,6 +3,8 @@ draft = false
 date = "2016-11-06T19:20:27+09:00"
 title = "Raise it Up"
 origin_url = "http://genius.com/Slum-village-raise-it-up-lyrics"
+youtube_bpm = "94.89"
+youtube_start = "15.3"
 +++
 
 [Intro 1]

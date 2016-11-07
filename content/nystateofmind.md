@@ -3,6 +3,8 @@ draft = false
 date = "2016-11-06T14:28:37+09:00"
 title = " N.Y. State of Mind"
 origin_url = "http://genius.com/Nas-ny-state-of-mind-lyrics"
+youtube_bpm = "84.5"
+youtube_start = "0.2"
 +++
 
 [Produced by DJ Premier]  

@@ -3,6 +3,8 @@ draft = false
 date = "2016-11-06T18:47:56+09:00"
 title = " '93 'Til Infinity"
 origin_url = "http://genius.com/Souls-of-mischief-93-til-infinity-lyrics"
+youtube_bpm = "103"
+youtube_start = "0.6"
 +++
 
 [Intro 1]  
