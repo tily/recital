@@ -24,28 +24,28 @@ youtube_start = "0.2"
 
 * {{<t "22.92">}} Rappers, I monkey flip 'em with the funky rhythm I be  
 * {{<t "25.76">}} kickin' / Musician, inflictin' composition of  
-* {{<t "28.6">}} pain / I'm like Scarface sniffin' cocaine  
-* {{<t "31.44">}} Holding an M16, see with the pen I'm extreme,  
+* {{<t "28.6">}} pain / I'm like Scarface sniffin' cocaine / Holding an
+* {{<t "31.44">}} M16, see with the pen I'm extreme, now
 
 [Verse 1-2]  
 
-* {{<t "34.28">}} now / Bullet holes left in my peepholes / I'm suited up in  
+* {{<t "34.28">}} Bullet holes left in my peepholes / I'm suited up in  
 * {{<t "37.12">}} street clothes, hand me a 9 and I'll defeat foes  
 * {{<t "39.96">}} Y'all know my steelo with or without the airplay  
-* {{<t "42.8">}} I keep some E&J, sitting bent up in the stairway  
+* {{<t "42.8">}} I keep some E&J, sitting bent up in the stairway / Or
 
 [Verse 1-3]  
 
-* {{<t "45.64">}} Or either on the corner betting Grants with the cee-lo champs  
+* {{<t "45.64">}} either on the corner betting Grants with the cee-lo champs  
 * {{<t "48.48">}} Laughing at baseheads tryna sell some broken amps  
 * {{<t "51.32">}} G-packs get off quick, forever niggas talk shit  
 * {{<t "54.16">}} Reminiscing about the last time the task force flipped  
 
 [Verse 1-4]  
 
-* {{<t "57.0">}} Niggas be running through the block shootin'  
-* {{<t "59.84">}} Time to start the revolution, catch a body, head for Houston  
-* {{<t "62.69">}} Once they caught us off-guard / The MAC-10 was in the grass and  
+* {{<t "57.0">}} Niggas be running through the block shootin' / Time to 
+* {{<t "59.84">}} start the revolution, catch a body, head for Houston / Once they
+* {{<t "62.69">}} caught us off-guard / The MAC-10 was in the grass and  
 * {{<t "65.53">}} I ran like a cheetah with thoughts of an assassin  
 
 [Verse 1-5]  
@@ -59,43 +59,43 @@ youtube_start = "0.2"
 
 * {{<t "79.73">}} Try to cock it, it wouldn't shoot, now I'm in danger  
 * {{<t "82.57">}} Finally pulled it back / And saw three bullets caught up in the chamber 
-* {{<t "85.41">}} So now I'm jetting to the building lobby,
-* {{<t "88.25">}} and it was full of children probably, couldn't see as high as I be  (So what you sayin'?)
+* {{<t "85.41">}} So now I'm jetting to the building lobby, and it was
+* {{<t "88.25">}} full of children probably, couldn't see as high as I be  (So what you sayin'?)
 
 [Verse 1-7]  
 
-* {{<t "91.09">}} It's like the game ain't the same  
-* {{<t "93.93">}} Got younger niggas pulling the triggers / Bringing fame to their name  
-* {{<t "96.77">}} And claim some corners, crews without guns are goners  
-* {{<t "99.61">}} In broad daylight, stickup kids, they run up on us  
+* {{<t "91.09">}} It's like the game ain't the same / Got younger
+* {{<t "93.93">}} niggas pulling the triggers / Bringing fame to their name / And
+* {{<t "96.77">}} claim some corners, crews without guns are goners / In 
+* {{<t "99.61">}} broad daylight, stickup kids, they run up on us  
 
 [Verse 1-8]  
 
-* {{<t "102.45">}} 45's and gauges, MAC's, in fact  
-* {{<t "105.29">}} Same niggas will catch you back-to-back / Snatching your cracks in black  
+* {{<t "102.45">}} 45's and gauges, MAC's, in fact / Same
+* {{<t "105.29">}} niggas will catch you back-to-back / Snatching your cracks in black  
 * {{<t "108.13">}} There was a snitch on the block getting niggas knocked  
-* {{<t "110.97">}} So hold your stash 'til the coke price drop  
+* {{<t "110.97">}} So hold your stash 'til the coke price drop / I know this 
 
 [Verse 1-9]  
 
-* {{<t "113.81">}} I know this crackhead who said she got to smoke nice rock  
-* {{<t "116.65">}} And if it's good, she'll bring you customers in measuring pots  
-* {{<t "119.49">}} But yo, you gotta slide on a vacation, inside information  
-* {{<t "122.33">}} Keeps large niggas erasin' and their wives basin'  
+* {{<t "113.81">}} crackhead who said she got to smoke nice rock / And if it's
+* {{<t "116.65">}} good, she'll bring you customers in measuring pots / But yo, 
+* {{<t "119.49">}} you gotta slide on a vacation, inside infor-
+* {{<t "122.33">}} mation / Keeps large niggas erasin' and their wives basin'  
 
 [Verse 1-10]  
 
-* {{<t "125.17">}} It drops deep as it does in my breath  
-* {{<t "128.01">}} I never sleep, ‘cause sleep is the cousin of death  
-* {{<t "130.85">}} Beyond the walls of intelligence, life is defined  
-* {{<t "133.69">}} I think of crime when I'm in a New York state of mind  
+* {{<t "125.17">}} It drops deep as it does in my breath / I never
+* {{<t "128.01">}} sleep, (huh) ‘cause sleep is the cousin of death / Beyond the 
+* {{<t "130.85">}} walls of intelligence, life is defined / I think of
+* {{<t "133.69">}} crime when I'm in a New York state of mind  
   
 [Hook]  
 
 * {{<t "136.53">}} New York state of mind  
-* {{<t "139.37">}}  
-* {{<t "142.21">}}   
-* {{<t "145.05">}} Be having dreams that I'm a 
+* {{<t "139.37">}} New York state of mind
+* {{<t "142.21">}} New York state of mind  
+* {{<t "145.05">}} New York state of mind / Be having dreams that I'm a 
 
 [Verse 2-1]  
 
@@ -120,8 +120,8 @@ youtube_start = "0.2"
 
 [Verse 2-4]  
 
-* {{<t "181.98">}} black rats trapped plus the Island is packed  
-* {{<t "184.82">}} From what I hear in all the stories / When my peoples come back, black  
+* {{<t "181.98">}} black rats trapped plus the Island is packed / From what I  
+* {{<t "184.82">}} hear in all the stories / When my peoples come back, black  
 * {{<t "187.66">}} I'm living where the nights is jet-black / The fiends fight to  
 * {{<t "190.5">}} get crack / I just max, I dream I can sit back  
 
@@ -129,19 +129,19 @@ youtube_start = "0.2"
 
 * {{<t "193.34">}} And lamp like Capone, with drug scripts sewn / Or the  
 * {{<t "196.18">}} legal luxury life, rings flooded with stones, holmes  
-* {{<t "199.02">}} I got so many rhymes, I don't think I'm too sane  
-* {{<t "201.86">}} Life is parallel to Hell, but I must maintain  
+* {{<t "199.02">}} I got so many rhymes, I don't think I'm too sane / Life is
+* {{<t "201.86">}} parallel to Hell, but I must maintain / And be
 
 [Verse 2-6]  
 
-* {{<t "204.7">}} And be prosperous, though we live dangerous / Cops could just  
+* {{<t "204.7">}} prosperous, though we live dangerous / Cops could just  
 * {{<t "207.54">}} arrest me, blaming us / We're held like hostages  
 * {{<t "210.38">}} It's only right that I was born to use mics / And the  
-* {{<t "213.22">}} stuff that I write is even tougher than dykes / I've
+* {{<t "213.22">}} stuff that I write is even tougher than dykes / I've taken
 
 [Verse 2-6]  
 
-* {{<t "216.06">}} taken rappers to a new plateau, through rap slow  
+* {{<t "216.06">}} rappers to a new plateau, through rap slow  
 * {{<t "218.9">}} My rhymin' is a vitamin held without a capsule  
 * {{<t "221.74">}} The smooth criminal on beat breaks / Never  
 * {{<t "224.58">}} put me in your box if your shit eats tapes / The city
@@ -161,6 +161,10 @@ youtube_start = "0.2"
 * {{<t "247.3">}} equivalent to the New York state of mind  
   
 [Hook]  
-New York state of mind  
+
+* {{<t "250.14">}} New York state of mind  
+* {{<t "252.98">}} New York state of mind
+* {{<t "255.82">}} New York state of mind  
+* {{<t "258.66">}} New York state of mind
 
 {{<y UKjj4hk0pV4>}}
