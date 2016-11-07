@@ -30,29 +30,43 @@ youtube_start = "15.3"
 
 * {{<t "40.59">}} I ain't about shit / Nope, what me dog
 * {{<t "43.12">}} I don't floss nope / I ain't that nigga Jay dee uh uh  
+  * floss = 見せびらかす
 * {{<t "45.65">}} You ain't never seen me balling out at the bar right?  
+  * "To spend a lot of cash, especially at a strip club." ([Urban Dictionary: ball out](http://www.urbandictionary.com/define.php?term=ball%20out))
 * {{<t "48.18">}} I don't rock my ice and bounce foreign cars / And my
+  * [Urban Dictionary: rock ice](http://www.urbandictionary.com/define.php?term=rock+ice)
+  * bounce foreign cars、なんかよく分からないけど、アメリカ西海岸の文化っぽい
+    * [What's the point of those bouncing cars in the hip-hop/rap videos? | Yahoo Answers](https://answers.yahoo.com/question/index?qid=20090320073439AAhBY1j)
+    * [HIPHOPのＰＶなどで車が上下に飛び跳ねるのを見たことがあります。あれはな... - Yahoo!知恵袋](http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1253436107)
 
 [Jay-Dee 2]  
 
 * {{<t "50.71">}} Rover ain't the hottest Rover you ever seen / That ain't a
+  * Rover = 車のメーカー
 * {{<t "53.24">}} TV screen / It ain't sitting on eighteens dog  
+  * "the ‘eighteens’ are in reference to the size of the rims his car has" (http://genius.com/1219190)
 * {{<t "55.77">}} I ain't gaining no green and my chain don't swing uh  
 * {{<t "58.3">}} I ain't doin my thing / I ain't doin a thing / I ain't
 
 [Jay-Dee 3]  
 
 * {{<t "60.83">}} got none of that dough with none of them cars / I ain't
+  * dough (dóu) 金、現金、銭
 * {{<t "63.36">}} fucked none of them hoes in none of them bars / I don't
 * {{<t "65.88">}} smoke weed / I ain't use to mess with the streets / I ain't
 * {{<t "68.41">}} from the D / No I wasn't blessed with the beats / I don't
+  * D = Detroit
+  * blessed with 〜が備わっている、〜に恵まれている
 
 [Jay-Dee 4]  
 
 * {{<t "70.94">}} be at the spot swinging my chain like this / Swinging 
 * {{<t "73.47">}} my thing til these motherfuckers bang my shit  
 * {{<t "76.0">}} I don't sip 'Mo / I ain't never popped Cris'  
+  * pop = シャンパンをポンと開栓するっていう感じかな
+  * "Jay is obviously referring to Moët and Cristal, both fine champagnes associated with the rap game" (http://genius.com/741599)
 * {{<t "78.53">}} This Rollie just don't look right sitting on my wrist huh?  
+  * Rollie = ロレックスの時計
 
 [Jay-Dee 5]  
 
