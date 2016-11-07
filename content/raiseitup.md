@@ -71,6 +71,7 @@ youtube_start = "15.3"
 [Jay-Dee 5]  
 
 * {{<t "81.06">}} Uh Uh wasn't me / Dipped in Sean John  
+  * Sean John = Puff Daddy の服のブランド
 * {{<t "83.59">}} Sippin' Chandon / Shit you want some / I don't
 * {{<t "86.12">}} hold heat / Naw I ain't never caught a case / I don't
 * {{<t "88.65">}} know what titles to trace / I ain't as tight as they say / I don't
