@@ -9,9 +9,14 @@
       @media (min-width: 768px) {
         .affix2 {
           position: fixed;
+	  width: 55%;
         }
       }
+      #content ul li ul li {
+        display: none;
+      }
     </style>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
   </head>
   <body>
     <header>
@@ -29,13 +34,15 @@
   <div class="row">
     <div class="col-sm-5">
       <div class="affix2">
-        <div class="well" style="margin-bottom: 5px">
+        <div class="well" style="margin-bottom: 5px;width: inherit;">
           <div id="player"></div>
         </div>
         <a href=http://genius.com/Nas-ny-state-of-mind-lyrics target="_blank">original text</a>
+	<div id="annotation" style="margin-top: 50px; width: inherit;">
+	</div>
       </div>
     </div>
-    <div class="col-sm-7">
+    <div id="content" class="col-sm-7">
       <p>[Produced by DJ Premier]</p>
 
 <p>[Intro]</p>
@@ -360,6 +367,13 @@ function pause() {
     </div>
   </div>
 </div>
+    <script>
+      $("#content ul li a").each(function(i, item) {
+        $(item).on("mousedown", function() {
+          $("#annotation").empty().append($("ul", $(item).parent()).clone())
+	})
+      })
+    </script>
   </body>
 </html>
 
