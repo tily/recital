@@ -1,2 +1,9 @@
+    <script>
+      $("#content ul li a").each(function(i, item) {
+        $(item).on("mousedown", function() {
+          $("#annotation").empty().append($("ul", $(item).parent()).clone())
+	})
+      })
+    </script>
   </body>
 </html>

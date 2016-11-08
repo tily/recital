@@ -3,13 +3,15 @@
   <div class="row">
     <div class="col-sm-5">
       <div class="affix2">
-        <div class="well" style="margin-bottom: 5px">
+        <div class="well" style="margin-bottom: 5px;width: inherit;">
           <div id="player"></div>
         </div>
         <a href={{ printf "%s" $.Params.origin_url }} target="_blank">original text</a>
+	<div id="annotation" style="margin-top: 50px; width: inherit;">
+	</div>
       </div>
     </div>
-    <div class="col-sm-7">
+    <div id="content" class="col-sm-7">
       {{ .Content }}
     </div>
   </div>
