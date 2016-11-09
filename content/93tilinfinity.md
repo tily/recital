@@ -17,17 +17,27 @@ youtube_start = "0.6"
 [Intro 2]  
 
 * {{<t "9.92">}} maxin in the studio / We hailin from East
+    * max = リラックスする、のんびりする (= chill)
+    * hail = [出身地から]来る、～に挨拶する
 * {{<t "12.25">}} Oakland, California an, um sometimes it
 * {{<t "14.58">}} gets al little hectic out there / But right
+    * hectic = 非常に忙しい
 * {{<t "16.91">}} now, yo, we gonna up you on how we just chill
+    * up = 【他動】～を上昇させる
   
 [1: Opio]  
 
 * {{<t "19.24">}} Dial the seven digits, call up Bridgette / Her man's a
 * {{<t "21.57">}} midget; plus she got friends, yo, I can dig it  
+    * midget = (軽蔑的) 小人
 * {{<t "23.9">}} Here's a forty, swig it, y'know it's frigid / I got 'em 
+    * forties = forty ounce bottles of liquor ([Urban Dictionary: forty](http://www.urbandictionary.com/define.php?term=forty))
+    * swig = ガブガブ飲む
+    * frigi = 寒い / 冷淡な / 堅苦しい / 性的に冷淡な
 * {{<t "26.23">}} chillin in the cooler, break out the ruler  
+    * ruler = 定規 / 支配者
 * {{<t "28.56">}} Damn! That's the fattest stog' I ever seen  
+    * stog = 葉巻 (stogey)
 * {{<t "30.89">}} The weather's heat in Cali; gettin weeded makes it feel like
 * {{<t "33.22">}} Maui / Now we feel the good vibrations  
 * {{<t "35.55">}} So many females, so much inspiration  
@@ -36,6 +46,7 @@ youtube_start = "0.6"
 
 * {{<t "37.88">}} I get inspired by the blunts too / I'll front
 * {{<t "40.21">}} you, if you hang with a bunk crew  
+    * bunk = たわごと、ナンセンス
 * {{<t "42.54">}} I roam the strip for bones to pick / When I find
 * {{<t "44.87">}} one, I'm done; take her home and quickly
 * {{<t "47.2">}} do this / I need not explain this (nahh)  
@@ -51,28 +62,35 @@ youtube_start = "0.6"
 * {{<t "63.51">}} Take her to the crib so I can stroke her  
   
 [4: Phesto]  
-Kids get broke for their skins when I'm in  
-Close range, I throws game at your dip like handball  
-'Cause the man's all that  
-All phat, I be the chill from 93 'til  
+
+* {{<t a>}} Kids get broke for their skins when I'm in  
+* {{<t a>}} Close range, I throws game at your dip like handball  
+* {{<t a>}} 'Cause the man's all that  
+* {{<t a>}} All phat, I be the chill from 93 'til  
   
-[Hook]  
-Yeah, this is how we chill from 93 'til  
-This is how we chill from 93 'til  
-This is how we chill from 93 'til  
-This is how we chill from 93 'til  
-Uh-huh, this is how we chill from 93 'til  
-This is how we chill, from 93 'til  
-This is how we chill from 93 'til  
-This is how we chill.. from 93 'til  
+[Hook 1-1]  
+
+* {{<t a>}} Yeah, this is how we chill from 93 'til  
+* {{<t a>}} This is how we chill from 93 'til  
+* {{<t a>}} This is how we chill from 93 'til  
+* {{<t a>}} This is how we chill from 93 'til  
+
+[Hook 1-2]  
+
+* {{<t a>}} Uh-huh, this is how we chill from 93 'til  
+* {{<t a>}} This is how we chill, from 93 'til  
+* {{<t a>}} This is how we chill from 93 'til  
+* {{<t a>}} This is how we chill.. from 93 'til  
   
 [5: A-Plus]  
-Huh, my black Timbs do me well (yeah)  
-When I see a fool and he says he heard me tell (what?)  
-Another person's business, I cause dizziness  
-Until you - stop acting like a silly bitch  
+
+* {{<t a>}} Huh, my black Timbs do me well (yeah)  
+* {{<t a>}} When I see a fool and he says he heard me tell (what?)  
+* {{<t a>}} Another person's business, I cause dizziness  
+* {{<t a>}} Until you - stop acting like a silly bitch  
   
 [6: Phesto]  
+
 Yo, crews are jealous 'cause we get props  
 The cops, wanna stop - our fun, but the top  
 Is where we're dwellin, swell and fat, no sleep  
@@ -81,6 +99,7 @@ Under their noses, this bro's quick
 They hit blunts and flip once I'm chillin 'cause my crew's close, kid  
   
 [7: Tajai]  
+
 I'm posted, most kids accept this as cool  
 I exit, cause I'm an exception to the rule  
 I'm steppin - to the cool spots where crews flock to snare a dip  
@@ -90,6 +109,7 @@ So I got tons of indo and go to the Owen's basement, my ace been
 Fattenin up tracks, Time to get prolific with the whiz kid  
   
 [8: Opio]  
+
 Greenbacks in stacks, don't even ask  
 Who got the fat sacks? We can max pumpin' fat tracks  
 Exchangin facts about impacts, 'cause in facts  
@@ -97,17 +117,22 @@ My freestyle talent overpowers brothers can't hack.. it
 They lack wit; we got the mack shit  
 93 'Til Infinity - kill all that wack shit  
   
-[Hook]  
-This is how we chill from 93 'til  
-This is how we chill from 93 'til  
-This is how we chill from 93 'til  
-This is how we chill from 93 'til  
-Uh-huh, this is how we chill from 93 'til  
-This is how we chill, from 93 'til  
-This is how we chill from 93 'til  
-This is how we chill.. from 93 'til  
+[Hook 2-1]  
+
+* {{<t a>}} This is how we chill from 93 'til  
+* {{<t a>}} This is how we chill from 93 'til  
+* {{<t a>}} This is how we chill from 93 'til  
+* {{<t a>}} This is how we chill from 93 'til  
+
+[Hook 2-2]  
+
+* {{<t a>}} Uh-huh, this is how we chill from 93 'til  
+* {{<t a>}} This is how we chill, from 93 'til  
+* {{<t a>}} This is how we chill from 93 'til  
+* {{<t a>}} This is how we chill.. from 93 'til  
   
 [9: Phesto]  
+
 I be coolin; school's in session but I'm fresh in  
 Rappin so I take time off to never rhyme soft  
 I'm off on my own shit with my own clique  
@@ -138,17 +163,22 @@ If you're really dope, why ain't ya signed yet?
 But I get - my loot from Jive/Zomba, I'mma bomb ya  
 You will see - from now 'til infinity  
   
-[Hook]  
-Yeah, this is how we chill from 93 'til  
-This is how we chill from 93 'til  
-This is how we chill from 93 'til  
-Yeah this is how we chill from 93 'til  
-Uh-huh, this is how we chill from 93 'til  
-This is how we chill, from 93 'til  
-Yeah this is how we chill from 93 'til  
-This is how we chill.. from 93 'til  
+[Hook 3-1]  
+
+* {{<t a>}} Yeah, this is how we chill from 93 'til  
+* {{<t a>}} This is how we chill from 93 'til  
+* {{<t a>}} This is how we chill from 93 'til  
+* {{<t a>}} Yeah this is how we chill from 93 'til  
+
+[Hook 3-2]  
+
+* {{<t a>}} Uh-huh, this is how we chill from 93 'til  
+* {{<t a>}} This is how we chill, from 93 'til  
+* {{<t a>}} Yeah this is how we chill from 93 'til  
+* {{<t a>}} This is how we chill.. from 93 'til  
   
 [Outro]  
+
 Hah-hah, just coolin out, y'know what I'm sayin  
 But, but who's chillin around the land y'know?  
 Yo, who's chillin? I think I know who's chillin  

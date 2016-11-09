@@ -18,7 +18,7 @@ youtube_start = "0.2"
 * {{<t "11.56">}} Straight out the fucking dungeons of rap  
 * {{<t "14.4">}} Where fake niggas don't make it back  
 * {{<t "17.24">}} I don't know how to  
-* {{<t "20.08">}} to start this shit, yo... now
+* {{<t "20.08">}} start this shit, yo... now
   
 [Verse 1-1]  
 
@@ -73,8 +73,11 @@ youtube_start = "0.2"
 
 * {{<t "102.45">}} 45's and gauges, MAC's, in fact / Same
 * {{<t "105.29">}} niggas will catch you back-to-back / Snatching your cracks in black  
+    * snatch = ひったくろうとする
 * {{<t "108.13">}} There was a snitch on the block getting niggas knocked  
+    * snitch = [警察などに] 密告する
 * {{<t "110.97">}} So hold your stash 'til the coke price drop / I know this 
+    * stash = 隠してあるもの
 
 [Verse 1-9]  
 
@@ -123,6 +126,7 @@ youtube_start = "0.2"
 * {{<t "181.98">}} black rats trapped plus the Island is packed / From what I  
 * {{<t "184.82">}} hear in all the stories / When my peoples come back, black  
 * {{<t "187.66">}} I'm living where the nights is jet-black / The fiends fight to  
+    * fiend = 悪魔、[麻薬などの] 常習者
 * {{<t "190.5">}} get crack / I just max, I dream I can sit back  
 
 [Verse 2-5]  
@@ -135,6 +139,7 @@ youtube_start = "0.2"
 [Verse 2-6]  
 
 * {{<t "204.7">}} prosperous, though we live dangerous / Cops could just  
+    * prosperous = 成功している、裕福である
 * {{<t "207.54">}} arrest me, blaming us / We're held like hostages  
 * {{<t "210.38">}} It's only right that I was born to use mics / And the  
 * {{<t "213.22">}} stuff that I write is even tougher than dykes / I've taken
@@ -144,13 +149,17 @@ youtube_start = "0.2"
 * {{<t "216.06">}} rappers to a new plateau, through rap slow  
 * {{<t "218.9">}} My rhymin' is a vitamin held without a capsule  
 * {{<t "221.74">}} The smooth criminal on beat breaks / Never  
+    * smooth = 順調な、洗練された (?)
 * {{<t "224.58">}} put me in your box if your shit eats tapes / The city
 
 [Verse 2-7]  
 
 * {{<t "227.42">}} never sleeps, full of villains and creeps / That's where 
+   * creep = はう / 気味の悪いやつ
 * {{<t "230.26">}} I learned to do my hustle / Had to scuffle with freaks / I'm an 
+   * scuffle = 取っ組み合う、乱闘する
 * {{<t "233.1">}} addict for sneakers  / 20's of buddha and bitches with beepers  
+   * beeper = ポケベル
 * {{<t "235.94">}} In the streets I can greet ya, about blunts I teach ya  
 
 [Verse 2-8]  

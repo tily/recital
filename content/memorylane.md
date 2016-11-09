@@ -8,32 +8,43 @@ origin_url = "http://genius.com/Nas-memory-lane-sittin-in-da-park-lyrics"
             
           [Produced by DJ Premier]  
   
-[Intro]  
+[Intro 1]  
 
 * {{<t "0.5">}} Aight, fuck that shit! Word, word  
 * {{<t "3.2">}} Fuck that other shit, y'know what I'm sayin'?  
 * {{<t "6">}} We gonna do a lil somethin' like this  
-Y'know what I'm sayin'?  
-(Y'all doing that other shit)  
-Keep it on and on and on and on and  
+* Y'know what I'm sayin'?  (Y'all doing that other shit)  
+* Keep it on and on and on and on and  
+
+[Intro 2]  
+
 * {{<t "11.3">}} Know'm sayin'? Big Nas, Grand Wizard, what is it?  
-(It's like…) Haha, you know what I'm sayin'?  
-Yo, go ahead and rip that shit, dun!  
+* (It's like…) Haha, you know what I'm sayin'?  
+* Yo, go ahead and rip that shit, dun! / I rap for 
   
 [Verse 1]  
-I rap for 
-* {{<t "">}} listeners, bluntheads, fly ladies, and prisoners  
-Henessey-holders and old-school niggas  
-Then I be dissing a unofficial that smoke Woolie Thai  
-I dropped out of Cooley High  
-Gassed up by a cokehead cutie pie  
-Jungle survivor, fuck who's the live-er  
-My man put the battery in my back  
-A difference from Energizer  
-Sentence begins indented with formality  
-My duration's infinite, moneywise or physiology  
-Poetry, that's a part of me, retardedly bop  
-I drop the ancient manifested hip-hop straight off the block  
+
+* {{<t a>}} listeners, bluntheads, fly ladies, and prisoners / Hene- 
+    * blunthead = someone who is a heavy user of marijuana with their mode of smoking being blunts [Urban Dictionary: blunthead](http://www.urbandictionary.com/define.php?term=blunthead)
+* {{<t a>}} ssey-holders and old-school niggas / Then I be dissing a 
+    * dis = 【他動】非難する
+* {{<t a>}} unofficial that smoke Woolie Thai / I dropped out of 
+* {{<t a>}} Cooley High / Gassed up by a cokehead cutie pie  
+    * [Cooley High - Wikipedia](https://en.wikipedia.org/wiki/Cooley_High)
+    * gassed up = 〈俗〉〔酒・麻薬で〕酔っぱらった
+
+[Verse 2]  
+
+* {{<t a>}} Jungle survivor, fuck who's the live-er  
+* {{<t a>}} My man put the battery in my back / A difference from Energizer  
+* {{<t a>}} Sentence begins indented with formality  
+* {{<t a>}} My duration's infinite, moneywise or physiology  
+    * moneywise = 金銭面では
+    * physiology = 生理学
+
+* Poetry, that's a part of me, retardedly bop  
+    * retareded = 知能の遅れた
+* I drop the ancient manifested hip-hop straight off the block  
 I reminisce on park jams  
 My man was shot for his sheep coat  
 Chocolate incense make me see him drop in my weed smoke  
@@ -52,8 +63,11 @@ I'm taking niggas on a trip straight through memory lane
 It's like that y'all…  
   
 [Hook]  
-"Now let me take a trip down memory lane"  
-"Coming outta Queensbridge"  
+
+* "Now let me take a trip down memory lane"  
+* "Coming outta Queensbridge"  
+* "Now let me take a trip down memory lane"  
+* "Coming outta Queensbridge"  
   
 [Verse 2]  
 One for the money, two for pussy and foreign cars  

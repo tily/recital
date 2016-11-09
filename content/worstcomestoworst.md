@@ -6,11 +6,13 @@ origin_url = "http://genius.com/Dilated-peoples-worst-comes-to-worst-lyrics"
 +++
 
 [Babu mixing]  
-Worst come to worst, my peoples come first  
-Worst come to worst  
-Worst come to worst, my peoples come first  
-Worst come to worst  
-Worst come to worst, my peoples come first  
+
+* Worst come to worst, my peoples come first
+  * worst come to worst = the situation develops in the most serious or unpleasant way
+* Worst come to worst
+* Worst come to worst, my peoples come first
+* Worst come to worst
+* Worst come to worst, my peoples come first
 
 [Verse 0: Evidence]  
 * 6/6 {{<t "21.2">}} Some people got good friends, at night I live my life right  
@@ -19,21 +21,28 @@ Worst come to worst, my peoples come first
 * 1/6 {{<t "24.2">}} Intense, on the edge,  
 * 2/6 {{<t "26.7">}} on the wild / I'm from the group where friction leads to  
 * 3/6 {{<t "29.1">}} fire / Stack your bricks, the time is take your pick  
+    * stack one's bricks = work harder than others ([Urban Dictionary: Stackin Bricks](http://www.urbandictionary.com/define.php?term=Stackin%20Bricks))
+    * take your pick = to choose what you want ([Take your pick \- Idioms by The Free Dictionary](http://idioms.thefreedictionary.com/take+your+pick))
 * 4/6 {{<t "31.65">}} Do or don't, the track Alchemist  
 * 5/6 {{<t "34.3">}} My life is good, I got my peeps in the mix, so  
+    * peeps = short in people ([Urban Dictionary: Peeps](http://www.urbandictionary.com/define.php?term=Peeps))
 * 6/6 {{<t "36.9">}} Worst come to worst, my peoples come first / I got
-  
+
 [Verse 2: Iriscience]  
 * 1/6 {{<t "39.5">}} worldwide family all over the Earth / And I  
 * 2/6 {{<t "42.1">}} worry bout 'em all for whatever it's worth / From the  
 * 3/6 {{<t "44.7">}} birth to the hearse, the streets, the guns burst  
+    * hearse = 霊柩車
 * 4/6 {{<t "47.4">}} Words I disperse are here to free minds / And  
+    * disperse = ～をばらまく、広める
 * 5/6 {{<t "49.99">}} if mine are needy I need to feed mine  
+    * needy = 愛情に飢えた
 * 6/6 {{<t "52.65">}} When worst come to worst / Set up shop and write a verse
   
 [Verse 3: Evidence]  
 * 1/6 {{<t "55.2">}} Actually, that's best come to best  
 * 2/6 {{<t "57.86">}} My lyrics take care of me, they therapy; get shit off my  
+    * get it off my chest = to confess to something for cathartic purposes [Urban Dictionary: get it off my chest](http://www.urbandictionary.com/define.php?term=get%20it%20off%20my%20chest)
 * 3/6 {{<t "60.4">}} chest / Extra stress, three-four over the score  
 * 4/6 {{<t "63.1">}} Different patterns of rhyming prepare me for war  
 * 5/6 {{<t "65.68">}} So next time you see us we'll be deadly on tour  
@@ -49,6 +58,7 @@ Worst come to worst, my peoples come first
   
 [Verse 5: Iriscience]  
 * 1/6 {{<t "86.3">}} glutton for the truth, even though truth hurts / I've  
+    * glutton = 大食家、熱中する人
 * 2/6 {{<t "88.9">}} studied with my peoples on streets and in Church  
 * 3/6 {{<t "91.5">}} We make it hard when we go on first  
 * 4/6 {{<t "94.15">}} Long road, honor of the samurai code  
@@ -65,7 +75,9 @@ Worst come to worst, my peoples come first
   
 [Verse 7: Iriscience]  
 * 1/6 {{<t "117.75">}} Special victims unit, catalyst for movement  
+    * [Special Victims Unit \- Wikipedia](https://en.wikipedia.org/wiki/Special_Victims_Unit)
 * 2/6 {{<t "120.3">}} Creates to devastate, since '84 show improvement  
+    * devastate = 徹底的に破壊する
 * 3/6 {{<t "122.9">}} Definitely Dilated Peoples comes first  
 * 4/6 {{<t "125.5">}} Cross-training spar, we raise the bar / And we  
 * 5/6 {{<t "128.1">}} put it in your ear no matter who you are  

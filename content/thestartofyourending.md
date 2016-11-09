@@ -40,7 +40,10 @@ youtube_start = "0.1"
 * {{<t "44.24">}} the, semi auto you can bring it on yo  
 * {{<t "47.0">}} I'm pullin' out strippin' niggas just like a porno
 * {{<t "49.76">}} flick / I'm sick / the Mobb rolls thick / Cross
+    * flick = 映画館
 * {{<t "52.51">}} paths with my clique and get vic  
+    * clique = 小集団
+    * vic = [犯罪の] 獲物、犠牲者
 
 [Verse 1-4: Havoc]  
 
