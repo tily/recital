@@ -45,4 +45,18 @@ p embed
     end
     File.write(path, content)
   end
+
+  desc "convert", "convert"
+  def convert(path)
+    content = File.read(path)
+    content.gsub!(/{{<t "(.+)">}}/) {
+      orig = $1
+p orig
+      ms = orig.to_f.to_s[/\.(\d+)/, 1]
+      sec = orig.to_i % 60
+      min = orig.to_i / 60
+      %q({{<t "%02d:%02d.%s">}}) % [min, sec, ms]
+    }
+    File.write(path, content)
+  end
 end
