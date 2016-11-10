@@ -22,7 +22,7 @@ origin_url = "http://singjupost.com/steve-jobs-2005-stanford-commencement-addres
 [Paragraph]
 
 * {{<t "00:56.4">}} The first story is about connecting the dots.
-* {{<t "00:61.4">}} I dropped out of Reed College after the first 6 months,
+* {{<t "01:01.4">}} I dropped out of Reed College after the first 6 months,
 * {{<t "01:04.6">}} but then stayed around as a drop-in for another 18 months or so before I really quit.
     * drop-in = 大学において、正規の学生ではないが聴講する者
 * {{<t "01:09.8">}} So why did I drop out?
@@ -34,86 +34,86 @@ origin_url = "http://singjupost.com/steve-jobs-2005-stanford-commencement-addres
 * {{<t "01:26.8">}} so everything was all set for me to be adopted at birth by a lawyer and his wife.
 * {{<t "01:32.5">}} Except that when I popped out they decided at the last minute that they really wanted a girl.
     * at the last minute = 直前になって、いよいよという時に、ぎりぎりになってから
-* {{<t "98.5">}} So my parents, who were on a waiting list, got a call in the middle of the night asking:
-* {{<t "104">}} "We've got an unexpected baby boy; do you want him?"
-* {{<t "108">}} They said: "Of course."
-* {{<t "111.5">}} My biological mother found out later
-* {{<t "113.8">}} that my mother had never graduated from college
-* {{<t "116.5">}} and that my father had never graduated from high school.
-* {{<t "119.5">}} She refused to sign the final adoption papers.
-* {{<t "124">}} She only relented a few months later when my parents promised that I would go to college.
+* {{<t "01:38.5">}} So my parents, who were on a waiting list, got a call in the middle of the night asking:
+* {{<t "01:44.0">}} "We've got an unexpected baby boy; do you want him?"
+* {{<t "01:48.0">}} They said: "Of course."
+* {{<t "01:51.5">}} My biological mother found out later
+* {{<t "01:53.8">}} that my mother had never graduated from college
+* {{<t "01:56.5">}} and that my father had never graduated from high school.
+* {{<t "01:59.5">}} She refused to sign the final adoption papers.
+* {{<t "02:04.0">}} She only relented a few months later when my parents promised that I would go to college.
     * relent = 折れる
-* {{<t "130">}} This was the start in my life.
+* {{<t "02:10.0">}} This was the start in my life.
 
 [Paragraph]
 
-* {{<t "134.5">}} And 17 years later I did go to college.
-* {{<t "138">}} But I naively chose a college that was almost as expensive as Stanford,
-* {{<t "143">}} and all of my working-class parents' savings were being spent on my college tuition.
+* {{<t "02:14.5">}} And 17 years later I did go to college.
+* {{<t "02:18.0">}} But I naively chose a college that was almost as expensive as Stanford,
+* {{<t "02:23.0">}} and all of my working-class parents' savings were being spent on my college tuition.
     * tuition = 授業料
-* {{<t "148.2">}} After six months, I couldn't see the value in it.
-* {{<t "151.3">}} I had no idea what I wanted to do with my life
-* {{<t "153.9">}} and no idea how college was going to help me figure it out.
-* {{<t "157.3">}} And here I was spending all of the money my parents had saved their entire life.
-* {{<t "163.1">}} So I decided to drop out and trust that it would all work out OK.
-* {{<t "168">}} It was pretty scary at the time, but looking back it was one of the best decisions I ever made.
+* {{<t "02:28.2">}} After six months, I couldn't see the value in it.
+* {{<t "02:31.3">}} I had no idea what I wanted to do with my life
+* {{<t "02:33.9">}} and no idea how college was going to help me figure it out.
+* {{<t "02:37.3">}} And here I was spending all of the money my parents had saved their entire life.
+* {{<t "02:43.1">}} So I decided to drop out and trust that it would all work out OK.
+* {{<t "02:48.0">}} It was pretty scary at the time, but looking back it was one of the best decisions I ever made.
 
 [Paragraph]
 
-* {{<t "174.5">}} The minute I dropped out I could stop taking the required classes that didn't interest me,
-* {{<t "180.2">}} and begin dropping in on the ones that looked far more interesting.
+* {{<t "02:54.5">}} The minute I dropped out I could stop taking the required classes that didn't interest me,
+* {{<t "03:00.2">}} and begin dropping in on the ones that looked far more interesting.
 
 [Paragraph]
  
-* {{<t "185.3">}} It wasn't all romantic.
-* {{<t "187">}} I didn't have a dorm room, so I slept on the floor in friends' rooms,
-* {{<t "191">}} I returned coke bottles for the $0.05 deposits to buy food with,
-* {{<t "195">}} and I would walk the 7 miles across town every Sunday night
-* {{<t "198.8">}} to get one good meal a week at the Hare Krishna temple.
-* {{<t "202.5">}} I loved it.
-* {{<t "204">}} And much of what I stumbled into by following my curiosity and intuition
-* {{<t "208.3">}} turned out to be priceless later on.
+* {{<t "03:05.3">}} It wasn't all romantic.
+* {{<t "03:07.0">}} I didn't have a dorm room, so I slept on the floor in friends' rooms,
+* {{<t "03:11.0">}} I returned coke bottles for the $0.05 deposits to buy food with,
+* {{<t "03:15.0">}} and I would walk the 7 miles across town every Sunday night
+* {{<t "03:18.8">}} to get one good meal a week at the Hare Krishna temple.
+* {{<t "03:22.5">}} I loved it.
+* {{<t "03:24.0">}} And much of what I stumbled into by following my curiosity and intuition
+* {{<t "03:28.3">}} turned out to be priceless later on.
 
 [Paragraph]
 
-* {{<t "210.5">}} Let me give you one example:
-* {{<t "213.5">}} Reed College at that time offered perhaps the best calligraphy instruction in the country.
+* {{<t "03:30.5">}} Let me give you one example:
+* {{<t "03:33.5">}} Reed College at that time offered perhaps the best calligraphy instruction in the country.
     * calligraphy = 書道
-* {{<t "218.5">}} Throughout the campus every poster, every label on every drawer, was beautifully hand calligraphed.
-* {{<t "226">}} Because I had dropped out and didn't have to take the normal classes,
-* {{<t "230">}} I decided to take a calligraphy class to learn how to do this.
-* {{<t "233.5">}} I learned about serif and san serif typefaces,
-* {{<t "236.5">}} about varying the amount of space between different letter combinations,
-* {{<t "240.2">}} about what makes great typography great.
-* {{<t "243.5">}} It was beautiful, historical, artistically subtle in a way that science can't capture,
-* {{<t "250">}} and I found it fascinating.
+* {{<t "03:38.5">}} Throughout the campus every poster, every label on every drawer, was beautifully hand calligraphed.
+* {{<t "03:46.0">}} Because I had dropped out and didn't have to take the normal classes,
+* {{<t "03:50.0">}} I decided to take a calligraphy class to learn how to do this.
+* {{<t "03:53.5">}} I learned about serif and san serif typefaces,
+* {{<t "03:56.5">}} about varying the amount of space between different letter combinations,
+* {{<t "04:00.2">}} about what makes great typography great.
+* {{<t "04:03.5">}} It was beautiful, historical, artistically subtle in a way that science can't capture,
+* {{<t "04:10.0">}} and I found it fascinating.
 
 [Paragraph]
 
-* {{<t "252.5">}} None of this had even a hope of any practical application in my life.
-* {{<t "258">}} But 10 years later, when we were designing the first Macintosh computer, it all came back to me.
-* {{<t "263.9">}} And we designed it all into the Mac.
-* {{<t "266.5">}} It was the first computer with beautiful typography.
-* {{<t "269.8">}} If I had never dropped in on that single course in college,
-* {{<t "273.5">}} the Mac would have never had multiple typefaces or proportionally spaced fonts.
-* {{<t "277.8">}} And since Windows just copied the Mac, it's likely that no personal computer would have them.
+* {{<t "04:12.5">}} None of this had even a hope of any practical application in my life.
+* {{<t "04:18.0">}} But 10 years later, when we were designing the first Macintosh computer, it all came back to me.
+* {{<t "04:23.9">}} And we designed it all into the Mac.
+* {{<t "04:26.5">}} It was the first computer with beautiful typography.
+* {{<t "04:29.8">}} If I had never dropped in on that single course in college,
+* {{<t "04:33.5">}} the Mac would have never had multiple typefaces or proportionally spaced fonts.
+* {{<t "04:37.8">}} And since Windows just copied the Mac, it's likely that no personal computer would have them.
 
 [Paragraph]
 
-* {{<t "290.3">}} If I had never dropped out, I would have never dropped in on this calligraphy class,
-* {{<t "294.6">}} and personal computers might not have the wonderful typography that they do.
-* {{<t "298.7">}} Of course it was impossible to connect the dots looking forward when I was in college.
-* {{<t "303.4">}} But it was very, very clear looking backwards 10 years later.
+* {{<t "04:50.3">}} If I had never dropped out, I would have never dropped in on this calligraphy class,
+* {{<t "04:54.6">}} and personal computers might not have the wonderful typography that they do.
+* {{<t "04:58.7">}} Of course it was impossible to connect the dots looking forward when I was in college.
+* {{<t "05:03.4">}} But it was very, very clear looking backwards 10 years later.
 
 [Paragraph]
 
-* {{<t "307.5">}} Again, you can't connect the dots looking forward;
-* {{<t "310.5">}} you can only connect them looking backwards.
-* {{<t "313.3">}} So you have to trust that the dots will somehow connect in your future.
-* {{<t "317">}} You have to trust in something -- your gut, destiny, life, karma, whatever.
-* {{<t "322.3">}} Because believing that the dots will connect down the road
-* {{<t "325.5">}} will give you the confidence to follow your heart
-* {{<t "328.3">}} even when it leads you off the well-worn path and that will make all the difference.
+* {{<t "05:07.5">}} Again, you can't connect the dots looking forward;
+* {{<t "05:10.5">}} you can only connect them looking backwards.
+* {{<t "05:13.3">}} So you have to trust that the dots will somehow connect in your future.
+* {{<t "05:17.0">}} You have to trust in something -- your gut, destiny, life, karma, whatever.
+* {{<t "05:22.3">}} Because believing that the dots will connect down the road
+* {{<t "05:25.5">}} will give you the confidence to follow your heart
+* {{<t "05:28.3">}} even when it leads you off the well-worn path and that will make all the difference.
     * well-worn = 使い古した、着古した、陳腐な、月並みな
 
 ## Love and loss

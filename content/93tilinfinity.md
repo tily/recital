@@ -9,57 +9,57 @@ youtube_start = "0.6"
 
 [Intro 1]  
 
-* {{<t "0.6">}} Yo wassup, this is Ta-
-* {{<t "2.93">}} jai of the mighty Souls of Mischief crew / I'm chillin with my man
-* {{<t "5.26">}} Phesto, my man A-Plus / And my man Op' you know he's
-* {{<t "7.59">}} dope (yo) / But right now y'know we just
+* {{<t "00:00.6">}} Yo wassup, this is Ta-
+* {{<t "00:02.93">}} jai of the mighty Souls of Mischief crew / I'm chillin with my man
+* {{<t "00:05.26">}} Phesto, my man A-Plus / And my man Op' you know he's
+* {{<t "00:07.59">}} dope (yo) / But right now y'know we just
 
 [Intro 2]  
 
-* {{<t "9.92">}} maxin in the studio / We hailin from East
+* {{<t "00:09.92">}} maxin in the studio / We hailin from East
     * max = リラックスする、のんびりする (= chill)
     * hail = [出身地から]来る、～に挨拶する
-* {{<t "12.25">}} Oakland, California an, um sometimes it
-* {{<t "14.58">}} gets al little hectic out there / But right
+* {{<t "00:12.25">}} Oakland, California an, um sometimes it
+* {{<t "00:14.58">}} gets al little hectic out there / But right
     * hectic = 非常に忙しい
-* {{<t "16.91">}} now, yo, we gonna up you on how we just chill
+* {{<t "00:16.91">}} now, yo, we gonna up you on how we just chill
     * up = 【他動】～を上昇させる
   
 [1: Opio]  
 
-* {{<t "19.24">}} Dial the seven digits, call up Bridgette / Her man's a
-* {{<t "21.57">}} midget; plus she got friends, yo, I can dig it  
+* {{<t "00:19.24">}} Dial the seven digits, call up Bridgette / Her man's a
+* {{<t "00:21.57">}} midget; plus she got friends, yo, I can dig it  
     * midget = (軽蔑的) 小人
-* {{<t "23.9">}} Here's a forty, swig it, y'know it's frigid / I got 'em 
+* {{<t "00:23.9">}} Here's a forty, swig it, y'know it's frigid / I got 'em 
     * forties = forty ounce bottles of liquor ([Urban Dictionary: forty](http://www.urbandictionary.com/define.php?term=forty))
     * swig = ガブガブ飲む
     * frigi = 寒い / 冷淡な / 堅苦しい / 性的に冷淡な
-* {{<t "26.23">}} chillin in the cooler, break out the ruler  
+* {{<t "00:26.23">}} chillin in the cooler, break out the ruler  
     * ruler = 定規 / 支配者
-* {{<t "28.56">}} Damn! That's the fattest stog' I ever seen  
+* {{<t "00:28.56">}} Damn! That's the fattest stog' I ever seen  
     * stog = 葉巻 (stogey)
-* {{<t "30.89">}} The weather's heat in Cali; gettin weeded makes it feel like
-* {{<t "33.22">}} Maui / Now we feel the good vibrations  
-* {{<t "35.55">}} So many females, so much inspiration  
+* {{<t "00:30.89">}} The weather's heat in Cali; gettin weeded makes it feel like
+* {{<t "00:33.22">}} Maui / Now we feel the good vibrations  
+* {{<t "00:35.55">}} So many females, so much inspiration  
   
 [2: A-Plus]  
 
-* {{<t "37.88">}} I get inspired by the blunts too / I'll front
-* {{<t "40.21">}} you, if you hang with a bunk crew  
+* {{<t "00:37.88">}} I get inspired by the blunts too / I'll front
+* {{<t "00:40.21">}} you, if you hang with a bunk crew  
     * bunk = たわごと、ナンセンス
-* {{<t "42.54">}} I roam the strip for bones to pick / When I find
-* {{<t "44.87">}} one, I'm done; take her home and quickly
-* {{<t "47.2">}} do this / I need not explain this (nahh)  
-* {{<t "49.53">}} A-Plus is famous - so get the anus!  
+* {{<t "00:42.54">}} I roam the strip for bones to pick / When I find
+* {{<t "00:44.87">}} one, I'm done; take her home and quickly
+* {{<t "00:47.2">}} do this / I need not explain this (nahh)  
+* {{<t "00:49.53">}} A-Plus is famous - so get the anus!  
   
 [3: Tajai]  
 
-* {{<t "51.86">}} Hey miss! Who's there? I'm through there / No time to
-* {{<t "54.19">}} do hair; the flick's at eight, so get straight  
-* {{<t "56.52">}} You look great - let's grub now /A rub
-* {{<t "58.85">}} down sounds flavor; later there's the theatre
-* {{<t "61.18">}} We in the cut, the cinema, was mediocre
-* {{<t "63.51">}} Take her to the crib so I can stroke her  
+* {{<t "00:51.86">}} Hey miss! Who's there? I'm through there / No time to
+* {{<t "00:54.19">}} do hair; the flick's at eight, so get straight  
+* {{<t "00:56.52">}} You look great - let's grub now /A rub
+* {{<t "00:58.85">}} down sounds flavor; later there's the theatre
+* {{<t "01:01.18">}} We in the cut, the cinema, was mediocre
+* {{<t "01:03.51">}} Take her to the crib so I can stroke her  
   
 [4: Phesto]  
 
