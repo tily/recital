@@ -15,9 +15,11 @@ origin_url = "http://genius.com/Dilated-peoples-worst-comes-to-worst-lyrics"
 * Worst come to worst, my peoples come first
 
 [Verse 0: Evidence]  
+
 * 6/6 {{<t "21.2">}} Some people got good friends, at night I live my life right  
   
 [Verse 1: Evidence]  
+
 * 1/6 {{<t "24.2">}} Intense, on the edge,  
 * 2/6 {{<t "26.7">}} on the wild / I'm from the group where friction leads to  
 * 3/6 {{<t "29.1">}} fire / Stack your bricks, the time is take your pick  
@@ -29,6 +31,7 @@ origin_url = "http://genius.com/Dilated-peoples-worst-comes-to-worst-lyrics"
 * 6/6 {{<t "36.9">}} Worst come to worst, my peoples come first / I got
 
 [Verse 2: Iriscience]  
+
 * 1/6 {{<t "39.5">}} worldwide family all over the Earth / And I  
 * 2/6 {{<t "42.1">}} worry bout 'em all for whatever it's worth / From the  
 * 3/6 {{<t "44.7">}} birth to the hearse, the streets, the guns burst  
@@ -40,6 +43,7 @@ origin_url = "http://genius.com/Dilated-peoples-worst-comes-to-worst-lyrics"
 * 6/6 {{<t "52.65">}} When worst come to worst / Set up shop and write a verse
   
 [Verse 3: Evidence]  
+
 * 1/6 {{<t "55.2">}} Actually, that's best come to best  
 * 2/6 {{<t "57.86">}} My lyrics take care of me, they therapy; get shit off my  
     * get it off my chest = to confess to something for cathartic purposes [Urban Dictionary: get it off my chest](http://www.urbandictionary.com/define.php?term=get%20it%20off%20my%20chest)
@@ -49,6 +53,7 @@ origin_url = "http://genius.com/Dilated-peoples-worst-comes-to-worst-lyrics"
 * 6/6 {{<t "68.3">}} Worst come to worst, my peoples come first  
   
 [Verse 4: Guru]  
+
 * 1/6 {{<t "70.8">}} Word up, if worst comes to worst / I make whole  
 * 2/6 {{<t "73.4">}} crews disperse / You know it's family first  
 * 3/6 {{<t "76.0">}} Gifted Unlimited with Dilated Peoples  
@@ -57,6 +62,7 @@ origin_url = "http://genius.com/Dilated-peoples-worst-comes-to-worst-lyrics"
 * 6/6 {{<t "83.7">}} Worst come to worst, my peoples come first / I'm a
   
 [Verse 5: Iriscience]  
+
 * 1/6 {{<t "86.3">}} glutton for the truth, even though truth hurts / I've  
     * glutton = 大食家、熱中する人
 * 2/6 {{<t "88.9">}} studied with my peoples on streets and in Church  
@@ -66,6 +72,7 @@ origin_url = "http://genius.com/Dilated-peoples-worst-comes-to-worst-lyrics"
 * 6/6 {{<t "99.45">}} Worst come to worst, my peoples come first  
   
 [Verse 6: Evidence]  
+
 * 1/6 {{<t "102.21">}} I got them back, at the end of the day / We could  
 * 2/6 {{<t "104.8">}} go our separate ways, but the songs remains / It won't  
 * 3/6 {{<t "107.4">}} change; got my target locked at range  
@@ -74,6 +81,7 @@ origin_url = "http://genius.com/Dilated-peoples-worst-comes-to-worst-lyrics"
 * 6/6 {{<t "115.2">}} Worst come to worst, my peoples come first  
   
 [Verse 7: Iriscience]  
+
 * 1/6 {{<t "117.75">}} Special victims unit, catalyst for movement  
     * [Special Victims Unit \- Wikipedia](https://en.wikipedia.org/wiki/Special_Victims_Unit)
 * 2/6 {{<t "120.3">}} Creates to devastate, since '84 show improvement  
@@ -84,19 +92,20 @@ origin_url = "http://genius.com/Dilated-peoples-worst-comes-to-worst-lyrics"
 * 6/6 {{<t "130.7">}}
   
 [Babu mixing]  
-Worst come to worst, my peoples come first  
-Worst come to worst  
-Worst come to worst, my peoples come first  
-Worst come to worst  
-Worst come to worst, my peoples come first  
-My peoples come first  
-My peoples come first  
-Oh, when you need me...  
+
+* Worst come to worst, my peoples come first  
+* Worst come to worst  
+* Worst come to worst, my peoples come first  
+* Worst come to worst  
+* Worst come to worst, my peoples come first  
+* My peoples come first  
+* My peoples come first  
+* Oh, when you need me...  
   
-D to I, L, A  
-Dilated, Dilated, Dilated Peoples, yo  
-Dilated Peoples, I roll with the show, for sho to open eye  
-Dilated, Diletad Peoples that's the record  
-We got you dilated - dilated, Dilated peoples  
+* D to I, L, A  
+* Dilated, Dilated, Dilated Peoples, yo  
+* Dilated Peoples, I roll with the show, for sho to open eye  
+* Dilated, Diletad Peoples that's the record  
+* We got you dilated - dilated, Dilated peoples  
 
 {{<y sevZEOUXpw4>}}
