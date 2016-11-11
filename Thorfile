@@ -45,4 +45,18 @@ p embed
     end
     File.write(path, content)
   end
+
+  desc "lookup", "get a word definition from alc"
+  def lookup(word)
+    doc = Nokogiri::HTML(open("http://eow.alc.co.jp/#{CGI.escape(word)}").read)
+    list = doc.search("#resultsList ul li")
+    list.reverse.each do |item|
+      title = item.search("h2").text
+      next if title == ""
+      definitions = item.search("ol li").map{|li| li.text.gsub(/\n+/, "\n") }
+      definitions += item.search("div").map{|li| li.text }
+      print "#{title} = "
+      puts definitions.map{|d| "#{d}" }.join(" / ")
+    end
+  end
 end
