@@ -10,15 +10,15 @@ origin_url = "http://genius.com/Nas-memory-lane-sittin-in-da-park-lyrics"
   
 [Intro 1]  
 
-* {{<t "0.5">}} Aight, fuck that shit! Word, word  
-* {{<t "3.2">}} Fuck that other shit, y'know what I'm sayin'?  
-* {{<t "6">}} We gonna do a lil somethin' like this  
+* {{<t "00:00.5">}} Aight, fuck that shit! Word, word  
+* {{<t "00:03.2">}} Fuck that other shit, y'know what I'm sayin'?  
+* {{<t "00:06.0">}} We gonna do a lil somethin' like this  
 * Y'know what I'm sayin'?  (Y'all doing that other shit)  
 * Keep it on and on and on and on and  
 
 [Intro 2]  
 
-* {{<t "11.3">}} Know'm sayin'? Big Nas, Grand Wizard, what is it?  
+* {{<t "00:11.3">}} Know'm sayin'? Big Nas, Grand Wizard, what is it?  
 * (It's like…) Haha, you know what I'm sayin'?  
 * Yo, go ahead and rip that shit, dun! / I rap for 
   
