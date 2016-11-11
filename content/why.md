@@ -1,7 +1,7 @@
 +++
 draft = false
 date = "2016-11-09T14:27:31+09:00"
-title = " Jadakiss Why? Lyrics"
+title = "Why?"
 +++
             
 [Verse 1]  
@@ -78,3 +78,5 @@ Why the whole world love my voice?
 Why? Try to tell 'em that it's the flow, son  
 And you know why they made the new twenties?  
 ‘Cause I got all the old ones—that's why!  
+
+{{<y "0-cpL--0AQA">}}

@@ -14,29 +14,39 @@ youtube_start = "0.2"
 * {{<t "00:00.2">}} Yeah, yeah  
 * {{<t "00:03.04">}} Ayo, black, it's time, word  
 * {{<t "00:05.88">}} (Word, it's time, man) It's time, man  
+    * word = wə́ːrd
 * {{<t "00:08.72">}} (Aight, man, begin)  
 * {{<t "00:11.56">}} Straight out the fucking dungeons of rap  
 * {{<t "00:14.4">}} Where fake niggas don't make it back  
+    * where = hwέər
 * {{<t "00:17.24">}} I don't know how to  
 * {{<t "00:20.08">}} start this shit, yo... now
   
 [Verse 1-1]  
 
 * {{<t "00:22.92">}} Rappers, I monkey flip 'em with the funky rhythm I be  
+    * monkey = mʌ́ŋki
 * {{<t "00:25.76">}} kickin' / Musician, inflictin' composition of  
+    * composition = kɑ̀mpəzíʃən
 * {{<t "00:28.6">}} pain / I'm like Scarface sniffin' cocaine / Holding an
+    * scar = skɑ́ːr 
+    * hold = hóuld
 * {{<t "00:31.44">}} M16, see with the pen I'm extreme, now
 
 [Verse 1-2]  
 
 * {{<t "00:34.28">}} Bullet holes left in my peepholes / I'm suited up in  
+    * bullet = búlit 
 * {{<t "00:37.12">}} street clothes, hand me a 9 and I'll defeat foes  
 * {{<t "00:39.96">}} Y'all know my steelo with or without the airplay  
+    * air = έər
 * {{<t "00:42.8">}} I keep some E&J, sitting bent up in the stairway / Or
+    * sit = sít
 
 [Verse 1-3]  
 
 * {{<t "00:45.64">}} either on the corner betting Grants with the cee-lo champs  
+    * corner = kɔ́ːrnər
 * {{<t "00:48.48">}} Laughing at baseheads tryna sell some broken amps  
 * {{<t "00:51.32">}} G-packs get off quick, forever niggas talk shit  
 * {{<t "00:54.16">}} Reminiscing about the last time the task force flipped  
