@@ -1,10 +1,9 @@
 +++
 draft = false
 date = "2016-11-12T08:15:52+09:00"
-title = " The Notorious B.I.G. Ten Crack Commandments Lyrics"
+title = "Ten Crack Commandments"
 +++
-  
-            
+
 [Chuck D]  
 
 1, 2, 3, 4, 5, 6, 7, 8, 9  

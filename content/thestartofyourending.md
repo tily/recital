@@ -23,8 +23,8 @@ youtube_start = "0.1"
  
 [Verse 1-1: Havoc]  
 
-* {{<t "00:22.17">}} real pack steel like my man Y.G  
-* {{<t "00:24.93">}} When a fool try to play me wet 'em up then I'm Swayze  
+* {{<t "00:22.17">}} real pack steel like my man Y.G / When a
+* {{<t "00:24.93">}} fool try to play me wet 'em up then I'm Swayze  
 * {{<t "00:27.69">}} You must be crazy, kid ran i never did  
 * {{<t "00:30.44">}} Forever wildin' that's how we live up in the  
 
@@ -39,8 +39,8 @@ youtube_start = "0.1"
 
 * {{<t "00:44.24">}} the, semi auto you can bring it on yo  
 * {{<t "00:47.0">}} I'm pullin' out strippin' niggas just like a porno
+    * flick = 映画館、porno flick でポルノ映画のことらしい (http://www.urbandictionary.com/define.php?term=porn%20flick)
 * {{<t "00:49.76">}} flick / I'm sick / the Mobb rolls thick / Cross
-    * flick = 映画館
 * {{<t "00:52.51">}} paths with my clique and get vic  
     * clique = 小集団
     * vic = [犯罪の] 獲物、犠牲者

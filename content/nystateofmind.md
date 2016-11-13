@@ -11,16 +11,16 @@ youtube_start = "0.2"
   
 [Intro]  
 
-* {{<t "00:00.2">}} Yeah, yeah  
-* {{<t "00:03.04">}} Ayo, black, it's time, word  
-* {{<t "00:05.88">}} (Word, it's time, man) It's time, man  
+* {{<t "00:00.2">}}  [back of the 3rd beat] Yeah, yeah
+* {{<t "00:03.04">}} [3rd beat] Ayo, black, it's time, word  
+* {{<t "00:05.88">}} (2nd beat) (Word, it's time, man) It's time, man  
     * word = wə́ːrd
-* {{<t "00:08.72">}} (Aight, man, begin)  
-* {{<t "00:11.56">}} Straight out the fucking dungeons of rap  
-* {{<t "00:14.4">}} Where fake niggas don't make it back  
+* {{<t "00:08.72">}} (Aight, man, begin) Yeah
+* {{<t "00:11.56">}} [back of the 2nd beat] Straight out the fucking dungeons of rap  
+* {{<t "00:14.4">}} [back of the 2nd beat] Where fake niggas don't make it back  
     * where = hwέər
-* {{<t "00:17.24">}} I don't know how to  
-* {{<t "00:20.08">}} start this shit, yo... now
+* {{<t "00:17.24">}} [back of the 4th beat] I don't know
+* {{<t "00:20.08">}} how to start this shit, yo... now
   
 [Verse 1-1]  
 
@@ -86,7 +86,7 @@ youtube_start = "0.2"
     * snatch = ひったくろうとする
 * {{<t "01:48.13">}} There was a snitch on the block getting niggas knocked  
     * snitch = [警察などに] 密告する
-* {{<t "01:50.97">}} So hold your stash 'til the coke price drop / I know this 
+* {{<t "01:50.97">}} (back of the 1st beat) So hold your stash 'til the coke price drop / I know this 
     * stash = 隠してあるもの
 
 [Verse 1-9]  
