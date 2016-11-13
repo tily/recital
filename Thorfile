@@ -41,7 +41,8 @@ p embed
     content = File.read(path)
     content.gsub!(/{{<t (.+?)>}}/) do
       start += spb * 4
-      %Q|{{<t "#{start.round(2)}">}}|
+      t = "%02d:%02d.%s" % [start / 60, start % 60, (start - start.to_i).round(2).to_s.gsub(/^0\./, "")]
+      %Q|{{<t "#{t}">}}|
     end
     File.write(path, content)
   end
