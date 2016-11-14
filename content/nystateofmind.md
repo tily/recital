@@ -92,6 +92,7 @@ youtube_start = "0.2"
 [Verse 1-9]  
 
 * {{<t "01:53.81">}} crackhead who said she got to smoke nice rock / And if it's
+    * rock = クラック・コカイン
 * {{<t "01:56.65">}} good, she'll bring you customers in measuring pots / But yo, 
 * {{<t "01:59.49">}} you gotta slide on a vacation, inside infor-
 * {{<t "02:02.33">}} mation / Keeps large niggas erasin' and their wives basin'  
@@ -115,12 +116,14 @@ youtube_start = "0.2"
 * {{<t "02:27.89">}} gangsta / Drinking Moets, holding TEC's  
 * {{<t "02:30.73">}} Making sure the cash came correct, then I stepped  
 * {{<t "02:33.57">}} Investments in stocks, sewing up the blocks to  
+    * sew up = 支配する、独占する
 * {{<t "02:36.41">}} sell rocks / Winning gunfights with mega-cops / But just a
 
 [Verse 2-2]  
 
 * {{<t "02:39.25">}} nigga walking with his finger on the trigger  
 * {{<t "02:42.09">}} Make enough figures until my pockets get bigger   
+   * make a figure = 目立つ、有名になる
 * {{<t "02:44.93">}} I ain't the type of brother made for you to start testin'  
 * {{<t "02:47.77">}} Give me a Smith & Wesson, I have niggas undressin'  
 
@@ -128,7 +131,10 @@ youtube_start = "0.2"
 
 * {{<t "02:50.61">}} Thinking of cash flow, buddha and shelter  
 * {{<t "02:53.45">}} Whenever frustrated, I'm a hijack Delta / In the  
+    * Delta = 航空会社の名前
 * {{<t "02:56.29">}} PJ's, my blend tape plays, bullets are strays  
+    * PJ = project = 公営住宅
+    * stray = (名詞) 迷子
 * {{<t "02:59.13">}} Young bitches is grazed, each block is like a maze / Full of  
 
 [Verse 2-4]  
@@ -136,6 +142,7 @@ youtube_start = "0.2"
 * {{<t "03:01.98">}} black rats trapped plus the Island is packed / From what I  
 * {{<t "03:04.82">}} hear in all the stories / When my peoples come back, black  
 * {{<t "03:07.66">}} I'm living where the nights is jet-black / The fiends fight to  
+    * jet-black = 真っ黒な、漆黒の
     * fiend = 悪魔、[麻薬などの] 常習者
 * {{<t "03:10.5">}} get crack / I just max, I dream I can sit back  
 
@@ -156,8 +163,10 @@ youtube_start = "0.2"
 
 [Verse 2-6]  
 
-* {{<t "03:36.06">}} rappers to a new plateau, through rap slow  
+* {{<t "03:36.06">}} rappers to a new <ruby>plateau<rt>plætóu</rt></ruby>, through rap slow  
+    * plateau = plætóu
 * {{<t "03:38.9">}} My rhymin' is a vitamin held without a capsule  
+    * capsule = kǽpsl
 * {{<t "03:41.74">}} The smooth criminal on beat breaks / Never  
     * smooth = 順調な、洗練された (?)
 * {{<t "03:44.58">}} put me in your box if your shit eats tapes / The city
@@ -174,8 +183,8 @@ youtube_start = "0.2"
 
 [Verse 2-8]  
 
-* {{<t "03:58.78">}} Inhale deep like the words of my breath  
-* {{<t "04:01.62">}} I never sleep, ‘cause sleep is the cousin of death / I lay  
+* {{<t "03:58.78">}} Inhale deep like the words of my breath / I never 
+* {{<t "04:01.62">}} sleep, ‘cause sleep is the cousin of death / I lay  
 * {{<t "04:04.46">}} puzzle as I backtrack to earlier times / Nothing's  
 * {{<t "04:07.3">}} equivalent to the New York state of mind  
   
