@@ -3,6 +3,7 @@ require "uri"
 require "thor"
 require "nokogiri"
 require "open-uri"
+require "toml"
 
 class Default < Thor
   desc "download", "download genius lyrics"
@@ -73,5 +74,69 @@ p orig
       %q({{<t "%02d:%02d.%s">}}) % [min, sec, ms]
     }
     File.write(path, content)
+  end
+
+  desc "separate", "separate words"
+  def separate(path)
+    rewrite_file(path) do |content|
+      buffer = []
+      content.split("\n").each do |line|
+        if match = line.match(/^(\* \{\{<t .+>\}\} )(.+)/)
+          prefix, content = match[1], match[2]
+          content = content.gsub(/([\w']+)/) { "{{<w \"#{$1}\">}}" }
+          buffer << prefix + content
+        else
+          buffer << line
+        end
+      end
+      next buffer.join("\n")
+    end
+  end
+
+  desc "pronounce", "get pronunciations of words and save to config.toml"
+  def pronounce(path)
+    rewrite_toml("config.toml") do |toml|
+      pronunciation = toml["params"]["pronunciation"]
+
+      File.open(path).each do |line|
+        words = line.scan(/\{\{<w "(.+?)">\}\}/).map{|a| a.first.downcase }
+        words.each do |word|
+          begin
+            if !pronunciation[%Q("#{word}")]
+              pron = get_pronunciation(word)
+              puts %Q("#{word}" = "#{pron}")
+              pronunciation[%Q("#{word}")] = pron
+            end
+          rescue => e
+            pronunciation[%Q("#{word}")] = ""
+            puts e
+          end
+        end
+      end
+      next toml
+    end
+  end
+
+  no_commands do
+    def get_pronunciation(word)
+      doc = Nokogiri::HTML(open("http://ejje.weblio.jp/content/#{CGI.escape(word)}").read)
+      res = doc.search("span.phoneticEjjeDesc").first
+      res.search("span.phoneticEjjeExt").remove
+      return res.text.split(/;/).first
+    end
+
+    def rewrite_file(path)
+      original = File.read(path)
+      rewritten = yield(original)
+      File.write(path, rewritten)
+    end
+
+    def rewrite_toml(path)
+      rewrite_file(path) do |original|
+        original = TOML.load(original)
+        rewritten = yield(original)
+        next TOML::Generator.new(rewritten).body
+      end
+    end
   end
 end
