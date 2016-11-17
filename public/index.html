@@ -4,7 +4,7 @@
 	<meta name="generator" content="Hugo 0.18-DEV" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    <title>https://tily.github.io/recital</title>
+    <title>R E C I T A L</title>
     <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" />
     <style>
       @media (min-width: 768px) {
@@ -18,13 +18,14 @@
       }
     </style>
     <script type="text/javascript" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   </head>
   <body>
     <header>
       <nav class="navbar navbar-default navbar-fixed-top" style="background-color: white; border: none;">
         <div class="container">
           <div class="navbar-header">
-            <a class="navbar-brand" href="https://tily.github.io/recital/">https://tily.github.io/recital</a>
+            <a class="navbar-brand" href="https://tily.github.io/recital/">R E C I T A L</a>
           </div>
         </div>
       </nav>
@@ -35,7 +36,7 @@
   <div class="row">
     <div class="col-sm-12">
       
-        <h1><a href="https://tily.github.io/recital/tencrackcommandments/"> The Notorious B.I.G. Ten Crack Commandments Lyrics</a></h1>
+        <h1><a href="https://tily.github.io/recital/tencrackcommandments/">Ten Crack Commandments</a></h1>
       
         <h1><a href="https://tily.github.io/recital/qualitycontrol/">Quality Control</a></h1>
       
@@ -62,6 +63,25 @@
         $(item).on("mousedown", function() {
           $("#annotation").empty().append($("ul", $(item).parent()).clone())
 	})
+      })
+
+      var showPronunciation = false
+      $("#toggle-pronunciation").click(function() {
+        $(".word").each(function(i, item) {
+          if(showPronunciation) {
+            $(item).text($(item).attr("data-org"))
+            $(item).attr("data-original-title", $(item).attr("data-pron"))
+          } else {
+            if ($(item).attr("data-pron") != "") {
+              $(item).text($(item).attr("data-pron"))
+              $(item).attr("data-original-title", $(item).attr("data-org"))
+            }
+          }
+        })
+	showPronunciation = !showPronunciation
+      })
+      $(function () {
+        $('[data-toggle="tooltip"]').tooltip({container: "body"})
       })
     </script>
   </body>

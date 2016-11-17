@@ -17,13 +17,14 @@
       }
     </style>
     <script type="text/javascript" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   </head>
   <body>
     <header>
       <nav class="navbar navbar-default navbar-fixed-top" style="background-color: white; border: none;">
         <div class="container">
           <div class="navbar-header">
-            <a class="navbar-brand" href="https://tily.github.io/recital/">https://tily.github.io/recital</a>
+            <a class="navbar-brand" href="https://tily.github.io/recital/">R E C I T A L</a>
           </div>
         </div>
       </nav>
@@ -38,6 +39,7 @@
           <div id="player"></div>
         </div>
         <a href=%25!s%28%3cnil%3e%29 target="_blank">original text</a>
+        <a id="toggle-pronunciation" href="javascript:void(0)" target="_blank">pronunciation</a>
 	<div id="annotation" style="margin-top: 50px; width: inherit;">
 	</div>
       </div>
@@ -182,6 +184,25 @@ function pause() {
         $(item).on("mousedown", function() {
           $("#annotation").empty().append($("ul", $(item).parent()).clone())
 	})
+      })
+
+      var showPronunciation = false
+      $("#toggle-pronunciation").click(function() {
+        $(".word").each(function(i, item) {
+          if(showPronunciation) {
+            $(item).text($(item).attr("data-org"))
+            $(item).attr("data-original-title", $(item).attr("data-pron"))
+          } else {
+            if ($(item).attr("data-pron") != "") {
+              $(item).text($(item).attr("data-pron"))
+              $(item).attr("data-original-title", $(item).attr("data-org"))
+            }
+          }
+        })
+	showPronunciation = !showPronunciation
+      })
+      $(function () {
+        $('[data-toggle="tooltip"]').tooltip({container: "body"})
       })
     </script>
   </body>
