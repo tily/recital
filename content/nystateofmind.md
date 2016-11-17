@@ -11,15 +11,15 @@ youtube_start = "0.2"
   
 [Intro]  
 
-* {{<t "00:00.2">}}  [{{<w "back">}} {{<w "of">}} {{<w "the">}} {{<w "3rd">}} {{<w "beat">}}] {{<w "Yeah">}}, {{<w "yeah">}}
-* {{<t "00:03.04">}} [{{<w "3rd">}} {{<w "beat">}}] {{<w "Ayo">}}, {{<w "black">}}, {{<w "it's">}} {{<w "time">}}, {{<w "word">}}  
-* {{<t "00:05.88">}} ({{<w "2nd">}} {{<w "beat">}}) ({{<w "Word">}}, {{<w "it's">}} {{<w "time">}}, {{<w "man">}}) {{<w "It's">}} {{<w "time">}}, {{<w "man">}}  
+* {{<t "00:00.2">}}  {{<w "Yeah">}}, {{<w "yeah">}}
+* {{<t "00:03.04">}} {{<w "Ayo">}}, {{<w "black">}}, {{<w "it's">}} {{<w "time">}}, {{<w "word">}}  
+* {{<t "00:05.88">}} ({{<w "Word">}}, {{<w "it's">}} {{<w "time">}}, {{<w "man">}}) {{<w "It's">}} {{<w "time">}}, {{<w "man">}}  
     * word = wə́ːrd
 * {{<t "00:08.72">}} ({{<w "Aight">}}, {{<w "man">}}, {{<w "begin">}}) {{<w "Yeah">}}
-* {{<t "00:11.56">}} [{{<w "back">}} {{<w "of">}} {{<w "the">}} {{<w "2nd">}} {{<w "beat">}}] {{<w "Straight">}} {{<w "out">}} {{<w "the">}} {{<w "fucking">}} {{<w "dungeons">}} {{<w "of">}} {{<w "rap">}}  
-* {{<t "00:14.4">}} [{{<w "back">}} {{<w "of">}} {{<w "the">}} {{<w "2nd">}} {{<w "beat">}}] {{<w "Where">}} {{<w "fake">}} {{<w "niggas">}} {{<w "don't">}} {{<w "make">}} {{<w "it">}} {{<w "back">}}  
+* {{<t "00:11.56">}} {{<w "Straight">}} {{<w "out">}} {{<w "the">}} {{<w "fucking">}} {{<w "dungeons">}} {{<w "of">}} {{<w "rap">}}  
+* {{<t "00:14.4">}} {{<w "Where">}} {{<w "fake">}} {{<w "niggas">}} {{<w "don't">}} {{<w "make">}} {{<w "it">}} {{<w "back">}}  
     * where = hwέər
-* {{<t "00:17.24">}} [{{<w "back">}} {{<w "of">}} {{<w "the">}} {{<w "4th">}} {{<w "beat">}}] {{<w "I">}} {{<w "don't">}} {{<w "know">}}
+* {{<t "00:17.24">}} {{<w "I">}} {{<w "don't">}} {{<w "know">}}
 * {{<t "00:20.08">}} {{<w "how">}} {{<w "to">}} {{<w "start">}} {{<w "this">}} {{<w "shit">}}, {{<w "yo">}}... {{<w "now">}}
   
 [Verse 1-1]  
@@ -86,7 +86,7 @@ youtube_start = "0.2"
     * snatch = ひったくろうとする
 * {{<t "01:48.13">}} {{<w "There">}} {{<w "was">}} {{<w "a">}} {{<w "snitch">}} {{<w "on">}} {{<w "the">}} {{<w "block">}} {{<w "getting">}} {{<w "niggas">}} {{<w "knocked">}}  
     * snitch = [警察などに] 密告する
-* {{<t "01:50.97">}} ({{<w "back">}} {{<w "of">}} {{<w "the">}} {{<w "1st">}} {{<w "beat">}}) {{<w "So">}} {{<w "hold">}} {{<w "your">}} {{<w "stash">}} {{<w "'til">}} {{<w "the">}} {{<w "coke">}} {{<w "price">}} {{<w "drop">}} / {{<w "I">}} {{<w "know">}} {{<w "this">}} 
+* {{<t "01:50.97">}} {{<w "So">}} {{<w "hold">}} {{<w "your">}} {{<w "stash">}} {{<w "'til">}} {{<w "the">}} {{<w "coke">}} {{<w "price">}} {{<w "drop">}} / {{<w "I">}} {{<w "know">}} {{<w "this">}} 
     * stash = 隠してあるもの
 
 [Verse 1-9]  
@@ -163,7 +163,7 @@ youtube_start = "0.2"
 
 [Verse 2-6]  
 
-* {{<t "03:36.06">}} {{<w "rappers">}} {{<w "to">}} {{<w "a">}} {{<w "new">}} <{{<w "ruby">}}>{{<w "plateau">}}<{{<w "rt">}}>{{<w "pl">}}æ{{<w "t">}}ó{{<w "u">}}</{{<w "rt">}}></{{<w "ruby">}}>, {{<w "through">}} {{<w "rap">}} {{<w "slow">}}  
+* {{<t "03:36.06">}} {{<w "rappers">}} {{<w "to">}} {{<w "a">}} {{<w "new">}} {{<w "plateau">}}, {{<w "through">}} {{<w "rap">}} {{<w "slow">}}  
     * plateau = plætóu
 * {{<t "03:38.9">}} {{<w "My">}} {{<w "rhymin'">}} {{<w "is">}} {{<w "a">}} {{<w "vitamin">}} {{<w "held">}} {{<w "without">}} {{<w "a">}} {{<w "capsule">}}  
     * capsule = kǽpsl
