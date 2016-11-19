@@ -17,13 +17,14 @@
       }
     </style>
     <script type="text/javascript" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   </head>
   <body>
     <header>
       <nav class="navbar navbar-default navbar-fixed-top" style="background-color: white; border: none;">
         <div class="container">
           <div class="navbar-header">
-            <a class="navbar-brand" href="https://tily.github.io/recital/">https://tily.github.io/recital</a>
+            <a class="navbar-brand" href="https://tily.github.io/recital/">R E C I T A L</a>
           </div>
         </div>
       </nav>
@@ -38,6 +39,7 @@
           <div id="player"></div>
         </div>
         <a href=http://genius.com/Mobb-deep-the-start-of-your-ending-41st-side-lyrics target="_blank">original text</a>
+        <a id="toggle-pronunciation" href="javascript:void(0)" target="_blank">pronunciation</a>
 	<div id="annotation" style="margin-top: 50px; width: inherit;">
 	</div>
       </div>
@@ -73,9 +75,9 @@
 
 <ul>
 <li><a href="#" onclick="return false" onmousedown="seek(&#34;00:22.17&#34;)" onmouseup="pause()">[00:22.17]</a>
- real pack steel like my man Y.G<br /></li>
+ real pack steel like my man Y.G / When a</li>
 <li><a href="#" onclick="return false" onmousedown="seek(&#34;00:24.93&#34;)" onmouseup="pause()">[00:24.93]</a>
- When a fool try to play me wet &lsquo;em up then I&rsquo;m Swayze<br /></li>
+ fool try to play me wet &lsquo;em up then I&rsquo;m Swayze<br /></li>
 <li><a href="#" onclick="return false" onmousedown="seek(&#34;00:27.69&#34;)" onmouseup="pause()">[00:27.69]</a>
  You must be crazy, kid ran i never did<br /></li>
 <li><a href="#" onclick="return false" onmousedown="seek(&#34;00:30.44&#34;)" onmouseup="pause()">[00:30.44]</a>
@@ -101,13 +103,13 @@
 <li><a href="#" onclick="return false" onmousedown="seek(&#34;00:44.24&#34;)" onmouseup="pause()">[00:44.24]</a>
  the, semi auto you can bring it on yo<br /></li>
 <li><a href="#" onclick="return false" onmousedown="seek(&#34;00:47.0&#34;)" onmouseup="pause()">[00:47.0]</a>
- I&rsquo;m pullin&rsquo; out strippin&rsquo; niggas just like a porno</li>
-<li><a href="#" onclick="return false" onmousedown="seek(&#34;00:49.76&#34;)" onmouseup="pause()">[00:49.76]</a>
- flick / I&rsquo;m sick / the Mobb rolls thick / Cross
+ I&rsquo;m pullin&rsquo; out strippin&rsquo; niggas just like a porno
 
 <ul>
-<li>flick = 映画館</li>
+<li>flick = 映画館、porno flick でポルノ映画のことらしい (<a href="http://www.urbandictionary.com/define.php?term=porn%20flick">http://www.urbandictionary.com/define.php?term=porn%20flick</a>)</li>
 </ul></li>
+<li><a href="#" onclick="return false" onmousedown="seek(&#34;00:49.76&#34;)" onmouseup="pause()">[00:49.76]</a>
+ flick / I&rsquo;m sick / the Mobb rolls thick / Cross</li>
 <li><a href="#" onclick="return false" onmousedown="seek(&#34;00:52.51&#34;)" onmouseup="pause()">[00:52.51]</a>
  paths with my clique and get vic<br />
 
@@ -283,6 +285,25 @@ function pause() {
         $(item).on("mousedown", function() {
           $("#annotation").empty().append($("ul", $(item).parent()).clone())
 	})
+      })
+
+      var showPronunciation = false
+      $("#toggle-pronunciation").click(function() {
+        $(".word").each(function(i, item) {
+          if(showPronunciation) {
+            $(item).text($(item).attr("data-org"))
+            $(item).attr("data-original-title", $(item).attr("data-pron"))
+          } else {
+            if ($(item).attr("data-pron") != "") {
+              $(item).text($(item).attr("data-pron"))
+              $(item).attr("data-original-title", $(item).attr("data-org"))
+            }
+          }
+        })
+	showPronunciation = !showPronunciation
+      })
+      $(function () {
+        $('[data-toggle="tooltip"]').tooltip({container: "body"})
       })
     </script>
   </body>
