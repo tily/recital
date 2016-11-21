@@ -3,12 +3,21 @@
   
   <url>
     <loc>https://tily.github.io/recital/</loc>
+<<<<<<< HEAD
     <lastmod>2016-11-21T16:42:07+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://tily.github.io/recital/buggin-out/</loc>
     <lastmod>2016-11-21T16:42:07+09:00</lastmod>
+=======
+    <lastmod>2016-11-19T11:17:13+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tily.github.io/recital/dejavu/</loc>
+    <lastmod>2016-11-19T11:17:13+09:00</lastmod>
+>>>>>>> 61f4065aa155ed4d447679e18b09094a17edf305
   </url>
   
   <url>
@@ -37,11 +46,6 @@
   </url>
   
   <url>
-    <loc>https://tily.github.io/recital/raiseitup-demo/</loc>
-    <lastmod>2016-11-06T19:20:27+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tily.github.io/recital/93tilinfinity/</loc>
     <lastmod>2016-11-06T18:47:56+09:00</lastmod>
   </url>
@@ -59,6 +63,16 @@
   <url>
     <loc>https://tily.github.io/recital/nystateofmind/</loc>
     <lastmod>2016-11-06T14:28:37+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tily.github.io/recital/medicine/</loc>
+    <lastmod>2016-11-06T14:28:37+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tily.github.io/recital/memorylane/</loc>
+    <lastmod>2016-11-05T15:24:08+09:00</lastmod>
   </url>
   
   <url>
