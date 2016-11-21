@@ -3,6 +3,8 @@ draft = false
 date = "2016-11-05T10:14:03+09:00"
 title = " Worst Comes to Worst"
 origin_url = "http://genius.com/Dilated-peoples-worst-comes-to-worst-lyrics"
+youtube_start = "21.2"
+youtube_bpm = "92"
 +++
 
 [Babu mixing]  
@@ -16,78 +18,80 @@ origin_url = "http://genius.com/Dilated-peoples-worst-comes-to-worst-lyrics"
 
 [Verse 0: Evidence]  
 
-* 6/6 {{<t "21.2">}} Some people got good friends, at night I live my life right  
+* {{<t "00:21.2">}} Some people got good friends, at night I live my life right  
   
 [Verse 1: Evidence]  
 
-* 1/6 {{<t "00:24.2">}} Intense, on the edge,  
-* 2/6 {{<t "00:26.7">}} on the wild / I'm from the group where friction leads to  
-* 3/6 {{<t "00:29.1">}} fire / Stack your bricks, the time is take your pick  
+* {{<t "00:23.81">}} Intense, on the edge,  
+* {{<t "00:26.42">}} on the wild / I'm from the group where friction leads to  
+* {{<t "00:29.03">}} fire / Stack your bricks, the time is take your pick  
     * stack one's bricks = work harder than others ([Urban Dictionary: Stackin Bricks](http://www.urbandictionary.com/define.php?term=Stackin%20Bricks))
     * take your pick = to choose what you want ([Take your pick \- Idioms by The Free Dictionary](http://idioms.thefreedictionary.com/take+your+pick))
-* 4/6 {{<t "00:31.65">}} Do or don't, the track Alchemist  
-* 5/6 {{<t "00:34.3">}} My life is good, I got my peeps in the mix, so  
+* {{<t "00:31.63">}} Do or don't, the track Alchemist  
+* {{<t "00:34.24">}} My life is good, I got my peeps in the mix, so  
     * peeps = short in people ([Urban Dictionary: Peeps](http://www.urbandictionary.com/define.php?term=Peeps))
-* 6/6 {{<t "00:36.9">}} Worst come to worst, my peoples come first / I got
+* {{<t "00:36.85">}} Worst come to worst, my peoples come first / I got
 
 [Verse 2: Iriscience]  
-* 1/6 {{<t "00:39.5">}} worldwide family all over the Earth / And I  
-* 2/6 {{<t "00:42.1">}} worry bout 'em all for whatever it's worth / From the  
-* 3/6 {{<t "00:44.7">}} birth to the hearse, the streets, the guns burst  
+
+* {{<t "00:39.46">}} worldwide family all over the Earth / And I
+* {{<t "00:42.07">}} worry bout 'em all for whatever it's worth / From the
+* {{<t "00:44.68">}} birth to the hearse, the streets, the guns burst
     * hearse = 霊柩車
-* 4/6 {{<t "00:47.4">}} Words I disperse are here to free minds / And  
+* {{<t "00:47.29">}} Words I disperse are here to free minds / And
     * disperse = ～をばらまく、広める
-* 5/6 {{<t "00:49.99">}} if mine are needy I need to feed mine  
+* {{<t "00:49.9">}} if mine are needy I need to feed mine
     * needy = 愛情に飢えた
-* 6/6 {{<t "00:52.65">}} When worst come to worst / Set up shop and write a verse
+* {{<t "00:52.5">}} When worst come to worst / Set up shop and write a verse
   
 [Verse 3: Evidence]  
-* 1/6 {{<t "00:55.2">}} Actually, that's best come to best  
-* 2/6 {{<t "00:57.86">}} My lyrics take care of me, they therapy; get shit off my  
+
+* 1/6 {{<t "00:55.11">}} Actually, that's best come to best  
+* 2/6 {{<t "00:57.72">}} My lyrics take care of me, they therapy; get shit off my  
     * get it off my chest = to confess to something for cathartic purposes [Urban Dictionary: get it off my chest](http://www.urbandictionary.com/define.php?term=get%20it%20off%20my%20chest)
-* 3/6 {{<t "01:00.4">}} chest / Extra stress, three-four over the score  
-* 4/6 {{<t "01:03.1">}} Different patterns of rhyming prepare me for war  
-* 5/6 {{<t "01:05.68">}} So next time you see us we'll be deadly on tour  
-* 6/6 {{<t "01:08.3">}} Worst come to worst, my peoples come first  
+* 3/6 {{<t "01:00.33">}} chest / Extra stress, three-four over the score  
+* 4/6 {{<t "01:02.94">}} Different patterns of rhyming prepare me for war  
+* 5/6 {{<t "01:05.55">}} So next time you see us we'll be deadly on tour  
+* 6/6 {{<t "01:08.16">}} Worst come to worst, my peoples come first  
   
 [Verse 4: Guru]  
 
-* 1/6 {{<t "70.8">}} Word up, if worst comes to worst / I make whole  
-* 2/6 {{<t "73.4">}} crews disperse / You know it's family first  
-* 3/6 {{<t "76.0">}} Gifted Unlimited with Dilated Peoples  
-* 4/6 {{<t "78.6">}} Babu, Evidence, Iriscience / And a  
-* 5/6 {{<t "81.1">}} shout out to my man Alchemist on the trizzack  
-* 6/6 {{<t "83.7">}} Worst come to worst, my peoples come first / I'm a
+* {{<t "01:10.77">}} Word up, if worst comes to worst / I make whole  
+* {{<t "01:13.37">}} crews disperse / You know it's family first  
+* {{<t "01:15.98">}} Gifted Unlimited with Dilated Peoples  
+* {{<t "01:18.59">}} Babu, Evidence, Iriscience / And a  
+* {{<t "01:21.2">}} shout out to my man Alchemist on the trizzack  
+* {{<t "01:23.81">}} Worst come to worst, my peoples come first / I'm a
   
 [Verse 5: Iriscience]  
 
-* 1/6 {{<t "86.3">}} glutton for the truth, even though truth hurts / I've  
+* {{<t "01:26.42">}} glutton for the truth, even though truth hurts / I've  
     * glutton = 大食家、熱中する人
-* 2/6 {{<t "01:28.9">}} studied with my peoples on streets and in Church  
-* 3/6 {{<t "01:31.5">}} We make it hard when we go on first  
-* 4/6 {{<t "01:34.15">}} Long road, honor of the samurai code  
-* 5/6 {{<t "01:36.75">}} These California streets ain't paved with gold  
-* 6/6 {{<t "01:39.45">}} Worst come to worst, my peoples come first  
+* {{<t "01:29.03">}} studied with my peoples on streets and in Church  
+* {{<t "01:31.63">}} We make it hard when we go on first  
+* {{<t "01:34.24">}} Long road, honor of the samurai code  
+* {{<t "01:36.85">}} These California streets ain't paved with gold  
+* {{<t "01:39.46">}} Worst come to worst, my peoples come first  
   
 [Verse 6: Evidence]  
 
-* 1/6 {{<t "102.21">}} I got them back, at the end of the day / We could  
-* 2/6 {{<t "104.8">}} go our separate ways, but the songs remains / It won't  
-* 3/6 {{<t "107.4">}} change; got my target locked at range  
-* 4/6 {{<t "110.0">}} I might switch gears but first I switch lanes  
-* 5/6 {{<t "112.6">}} Without my people I got nothing to gain, that's why  
-* 6/6 {{<t "115.2">}} Worst come to worst, my peoples come first  
+* {{<t "01:42.07">}} I got them back, at the end of the day / We could  
+* {{<t "01:44.68">}} go our separate ways, but the songs remains / It won't  
+* {{<t "01:47.29">}} change; got my target locked at range  
+* {{<t "01:49.9">}} I might switch gears but first I switch lanes  
+* {{<t "01:52.5">}} Without my people I got nothing to gain, that's why  
+* {{<t "01:55.11">}} Worst come to worst, my peoples come first  
   
 [Verse 7: Iriscience]  
 
-* 1/6 {{<t "117.75">}} Special victims unit, catalyst for movement  
+* {{<t "01:57.72">}} Special victims unit, catalyst for movement  
     * [Special Victims Unit \- Wikipedia](https://en.wikipedia.org/wiki/Special_Victims_Unit)
-* 2/6 {{<t "02:00.3">}} Creates to devastate, since '84 show improvement  
+* {{<t "02:00.33">}} Creates to devastate, since '84 show improvement  
     * devastate = 徹底的に破壊する
-* 3/6 {{<t "02:02.9">}} Definitely Dilated Peoples comes first  
-* 4/6 {{<t "02:05.5">}} Cross-training spar, we raise the bar / And we  
-* 5/6 {{<t "02:08.1">}} put it in your ear no matter who you are  
-* 6/6 {{<t "02:10.7">}}
+* {{<t "02:02.94">}} Definitely Dilated Peoples comes first  
+* {{<t "02:05.55">}} Cross-training spar, we raise the bar / And we  
+* {{<t "02:08.16">}} put it in your ear no matter who you are  
+* {{<t "02:10.77">}}
   
 [Babu mixing]  
 
