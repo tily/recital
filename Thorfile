@@ -1,3 +1,4 @@
+require "bigdecimal"
 require "cgi"
 require "uri"
 require "thor"
@@ -42,7 +43,7 @@ p embed
     content = File.read(path)
     content.gsub!(/{{<t (.+?)>}}/) do
       start += spb * 4
-      t = "%02d:%02d.%s" % [start / 60, start % 60, (start - start.to_i).round(2).to_s.gsub(/^0\./, "")]
+      t = "%02d:%02d.%s" % [start / 60, start % 60, BigDecimal((start - start.to_i).to_s).floor(2).to_f.to_s.gsub(/^0\./, "")]
       %Q|{{<t "#{t}">}}|
     end
     File.write(path, content)
