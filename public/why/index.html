@@ -131,7 +131,7 @@ firstScriptTag.parentNode.insertBefore(tag, firstScriptTag)
 
 var player
 function onYouTubeIframeAPIReady() {
-  player = new YT.Player('player', {width: '100%', height: '100%', videoId: '0-cpL--0AQA'})
+  player = new YT.Player('player', {width: '100%', height: '100%', videoId: '0-cpL--0AQA', playerVars: {playsinline: 1}})
   setInterval(function() {
     if(player.getPlayerState() != 1) return
     var curr = player.getCurrentTime()
