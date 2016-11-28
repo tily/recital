@@ -676,7 +676,7 @@ firstScriptTag.parentNode.insertBefore(tag, firstScriptTag)
 
 var player
 function onYouTubeIframeAPIReady() {
-  player = new YT.Player(&#39;player&#39;, {width: &#39;100%&#39;, height: &#39;100%&#39;, videoId: &#39;X4qYox-Gb70&#39;})
+  player = new YT.Player(&#39;player&#39;, {width: &#39;100%&#39;, height: &#39;100%&#39;, videoId: &#39;X4qYox-Gb70&#39;, playerVars: {playsinline: 1}})
   setInterval(function() {
     if(player.getPlayerState() != 1) return
     var curr = player.getCurrentTime()
@@ -1193,7 +1193,7 @@ firstScriptTag.parentNode.insertBefore(tag, firstScriptTag)
 
 var player
 function onYouTubeIframeAPIReady() {
-  player = new YT.Player(&#39;player&#39;, {width: &#39;100%&#39;, height: &#39;100%&#39;, videoId: &#39;ZYb_8MM1tGQ&#39;})
+  player = new YT.Player(&#39;player&#39;, {width: &#39;100%&#39;, height: &#39;100%&#39;, videoId: &#39;ZYb_8MM1tGQ&#39;, playerVars: {playsinline: 1}})
   setInterval(function() {
     if(player.getPlayerState() != 1) return
     var curr = player.getCurrentTime()
@@ -1622,7 +1622,7 @@ firstScriptTag.parentNode.insertBefore(tag, firstScriptTag)
 
 var player
 function onYouTubeIframeAPIReady() {
-  player = new YT.Player(&#39;player&#39;, {width: &#39;100%&#39;, height: &#39;100%&#39;, videoId: &#39;PgpDN-bARwc&#39;})
+  player = new YT.Player(&#39;player&#39;, {width: &#39;100%&#39;, height: &#39;100%&#39;, videoId: &#39;PgpDN-bARwc&#39;, playerVars: {playsinline: 1}})
   setInterval(function() {
     if(player.getPlayerState() != 1) return
     var curr = player.getCurrentTime()
@@ -1761,7 +1761,7 @@ firstScriptTag.parentNode.insertBefore(tag, firstScriptTag)
 
 var player
 function onYouTubeIframeAPIReady() {
-  player = new YT.Player(&#39;player&#39;, {width: &#39;100%&#39;, height: &#39;100%&#39;, videoId: &#39;0-cpL--0AQA&#39;})
+  player = new YT.Player(&#39;player&#39;, {width: &#39;100%&#39;, height: &#39;100%&#39;, videoId: &#39;0-cpL--0AQA&#39;, playerVars: {playsinline: 1}})
   setInterval(function() {
     if(player.getPlayerState() != 1) return
     var curr = player.getCurrentTime()
@@ -2146,7 +2146,7 @@ firstScriptTag.parentNode.insertBefore(tag, firstScriptTag)
 
 var player
 function onYouTubeIframeAPIReady() {
-  player = new YT.Player(&#39;player&#39;, {width: &#39;100%&#39;, height: &#39;100%&#39;, videoId: &#39;eATZrHwNW7w&#39;})
+  player = new YT.Player(&#39;player&#39;, {width: &#39;100%&#39;, height: &#39;100%&#39;, videoId: &#39;eATZrHwNW7w&#39;, playerVars: {playsinline: 1}})
   setInterval(function() {
     if(player.getPlayerState() != 1) return
     var curr = player.getCurrentTime()
@@ -2517,7 +2517,7 @@ firstScriptTag.parentNode.insertBefore(tag, firstScriptTag)
 
 var player
 function onYouTubeIframeAPIReady() {
-  player = new YT.Player(&#39;player&#39;, {width: &#39;100%&#39;, height: &#39;100%&#39;, videoId: &#39;fXJc2NYwHjw&#39;})
+  player = new YT.Player(&#39;player&#39;, {width: &#39;100%&#39;, height: &#39;100%&#39;, videoId: &#39;fXJc2NYwHjw&#39;, playerVars: {playsinline: 1}})
   setInterval(function() {
     if(player.getPlayerState() != 1) return
     var curr = player.getCurrentTime()
@@ -2757,7 +2757,7 @@ firstScriptTag.parentNode.insertBefore(tag, firstScriptTag)
 
 var player
 function onYouTubeIframeAPIReady() {
-  player = new YT.Player(&#39;player&#39;, {width: &#39;100%&#39;, height: &#39;100%&#39;, videoId: &#39;4LGqccKDiwE&#39;})
+  player = new YT.Player(&#39;player&#39;, {width: &#39;100%&#39;, height: &#39;100%&#39;, videoId: &#39;4LGqccKDiwE&#39;, playerVars: {playsinline: 1}})
   setInterval(function() {
     if(player.getPlayerState() != 1) return
     var curr = player.getCurrentTime()
@@ -3396,7 +3396,7 @@ firstScriptTag.parentNode.insertBefore(tag, firstScriptTag)
 
 var player
 function onYouTubeIframeAPIReady() {
-  player = new YT.Player(&#39;player&#39;, {width: &#39;100%&#39;, height: &#39;100%&#39;, videoId: &#39;VyzqHFdzBKg&#39;})
+  player = new YT.Player(&#39;player&#39;, {width: &#39;100%&#39;, height: &#39;100%&#39;, videoId: &#39;VyzqHFdzBKg&#39;, playerVars: {playsinline: 1}})
   setInterval(function() {
     if(player.getPlayerState() != 1) return
     var curr = player.getCurrentTime()
@@ -3862,7 +3862,7 @@ firstScriptTag.parentNode.insertBefore(tag, firstScriptTag)
 
 var player
 function onYouTubeIframeAPIReady() {
-  player = new YT.Player(&#39;player&#39;, {width: &#39;100%&#39;, height: &#39;100%&#39;, videoId: &#39;UKjj4hk0pV4&#39;})
+  player = new YT.Player(&#39;player&#39;, {width: &#39;100%&#39;, height: &#39;100%&#39;, videoId: &#39;UKjj4hk0pV4&#39;, playerVars: {playsinline: 1}})
   setInterval(function() {
     if(player.getPlayerState() != 1) return
     var curr = player.getCurrentTime()
@@ -4003,7 +4003,7 @@ firstScriptTag.parentNode.insertBefore(tag, firstScriptTag)
 
 var player
 function onYouTubeIframeAPIReady() {
-  player = new YT.Player(&#39;player&#39;, {width: &#39;100%&#39;, height: &#39;100%&#39;, videoId: &#39;JzxwuYSoWIc&#39;})
+  player = new YT.Player(&#39;player&#39;, {width: &#39;100%&#39;, height: &#39;100%&#39;, videoId: &#39;JzxwuYSoWIc&#39;, playerVars: {playsinline: 1}})
   setInterval(function() {
     if(player.getPlayerState() != 1) return
     var curr = player.getCurrentTime()
@@ -4259,7 +4259,7 @@ firstScriptTag.parentNode.insertBefore(tag, firstScriptTag)
 
 var player
 function onYouTubeIframeAPIReady() {
-  player = new YT.Player(&#39;player&#39;, {width: &#39;100%&#39;, height: &#39;100%&#39;, videoId: &#39;JXBFG2vsyCM&#39;})
+  player = new YT.Player(&#39;player&#39;, {width: &#39;100%&#39;, height: &#39;100%&#39;, videoId: &#39;JXBFG2vsyCM&#39;, playerVars: {playsinline: 1}})
   setInterval(function() {
     if(player.getPlayerState() != 1) return
     var curr = player.getCurrentTime()
@@ -4531,7 +4531,7 @@ firstScriptTag.parentNode.insertBefore(tag, firstScriptTag)
 
 var player
 function onYouTubeIframeAPIReady() {
-  player = new YT.Player(&#39;player&#39;, {width: &#39;100%&#39;, height: &#39;100%&#39;, videoId: &#39;sevZEOUXpw4&#39;})
+  player = new YT.Player(&#39;player&#39;, {width: &#39;100%&#39;, height: &#39;100%&#39;, videoId: &#39;sevZEOUXpw4&#39;, playerVars: {playsinline: 1}})
   setInterval(function() {
     if(player.getPlayerState() != 1) return
     var curr = player.getCurrentTime()
