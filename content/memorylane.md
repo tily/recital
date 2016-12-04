@@ -62,7 +62,7 @@ origin_url = "http://genius.com/Nas-memory-lane-sittin-in-da-park-lyrics"
 * {{<t "01:20.5">}} It's like that y'all…  
 * {{<t "01:23.17">}}
   
-[Hook]  
+[Hook 1]  
 
 * {{<t "01:25.83">}} "Now let me take a trip down memory lane"  
 * {{<t "01:28.5">}} "Coming outta Queensbridge"  
@@ -73,43 +73,61 @@ origin_url = "http://genius.com/Nas-memory-lane-sittin-in-da-park-lyrics"
 * {{<t "01:41.83">}} "Now let me take a trip down memory lane"  
 * {{<t "01:44.5">}} "Coming outta Queensbridge"  
   
-[Verse 2]  
+[Verse 2-1]
 
 * {{<t "01:47.17">}} One for the money, two for pussy and foreign cars  
 * {{<t "01:49.83">}} Three for Alizé, niggas deceased or behind bars  
 * {{<t "01:52.5">}} I rap divine, God; check the prognosis: is it real or showbiz?  
 * {{<t "01:55.17">}} My window faces shootouts, drug overdoses  
 
-Live amongst no roses, only the drama  
-For real, a nickel-plate is my fate, my medicine is the ganja  
-Here's my basis, my razor embraces, many faces  
-You're telephone blown, black, stitches or fat shoelaces  
-Peoples are petro, dramatic automatic .44 I let blow  
-And back down po-po when I'm vexed so  
-My pen taps the paper then my brain's blank  
-I see dark streets, hustlin' brothers who keep the same rank  
-Pumpin' for somethin', some'll prosper, some fail  
-Judges hanging niggas, uncorrect bails for direct sales  
-My intellect prevails from a hanging cross with nails  
-I reinforce the frail, with lyrics that's real  
-Word to Christ, a disciple of streets, trifle on beats  
-I decipher prophecies through a mic and say "Peace."  
-I hung around the older crews  
-While they sling smack to dingbats  
-They spoke of Fat Cat; that nigga's name made bell rings, black  
-Some fiends scream, about Supreme Team  
-A Jamaica Queens thing  
-Uptown was Alpo, son, heard he was kingpin  
-Yo, fuck "rap is real", watch the herbs stand still  
-Never talking to snakes, ‘cause the words of man kill  
-True in the game, as long as blood is blue in my veins  
-I pour my Heineken brew to my deceased crew on memory lane  
+[Verse 2-2]
+
+* {{<t a>}} Live amongst no roses, only the drama  
+* {{<t a>}} For real, a nickel-plate is my fate, my medicine is the ganja  
+* {{<t a>}} Here's my basis, my razor embraces, many faces  
+* {{<t a>}} You're telephone blown, black, stitches or fat shoelaces  
+
+[Verse 2-3]
+
+* {{<t a>}} Peoples are petro, dramatic automatic .44 I let blow  
+* {{<t a>}} And back down po-po when I'm vexed so  
+* {{<t a>}} My pen taps the paper then my brain's blank  
+* {{<t a>}} I see dark streets, hustlin' brothers who keep the same rank  
+
+[Verse 2-4]
+
+* {{<t a>}} Pumpin' for somethin', some'll prosper, some fail  
+* {{<t a>}} Judges hanging niggas, uncorrect bails for direct sales  
+* {{<t a>}} My intellect prevails from a hanging cross with nails  
+* {{<t a>}} I reinforce the frail, with lyrics that's real  
+
+[Verse 2-5]
+
+* {{<t a>}} Word to Christ, a disciple of streets, trifle on beats  
+* {{<t a>}} I decipher prophecies through a mic and say "Peace."  
+* {{<t a>}} I hung around the older crews  
+* {{<t a>}} While they sling smack to dingbats  
+
+[Verse 2-6]
+
+* {{<t a>}} They spoke of Fat Cat; that nigga's name made bell rings, black  
+* {{<t a>}} Some fiends scream, about Supreme Team  
+* {{<t a>}} A Jamaica Queens thing  
+* {{<t a>}} Uptown was Alpo, son, heard he was kingpin  
+
+[Verse 2-7]
+
+* {{<t a>}} Yo, fuck "rap is real", watch the herbs stand still  
+* {{<t a>}} Never talking to snakes, ‘cause the words of man kill  
+* {{<t a>}} True in the game, as long as blood is blue in my veins  
+* {{<t a>}} I pour my Heineken brew to my deceased crew on memory lane  
   
-[Hook]  
-"Now let me take a trip down memory lane"  
-"Coming outta Queensbridge"  
-"Now let me take a trip down memory lane"  
-"Coming outta Queensbridge"  
+[Hook 2]
+
+* {{<t a>}} "Now let me take a trip down memory lane"  
+* {{<t a>}} "Coming outta Queensbridge"  
+* {{<t a>}} "Now let me take a trip down memory lane"  
+* {{<t a>}} "Coming outta Queensbridge"  
   
 [Outro: DJ Premier scracthing]  
 "Coming out of Queensbridge" (X4)  
@@ -121,9 +139,5 @@ I pour my Heineken brew to my deceased crew on memory lane
 "Coming out of Queensbridge"  
 "The most dangerous MC is…"  
 "You're number one and y'know where you're from"  
-  
-  
-            
-        
 
 {{<y JXBFG2vsyCM>}}
