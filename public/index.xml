@@ -346,7 +346,7 @@ firstScriptTag.parentNode.insertBefore(tag, firstScriptTag)
 
 var player
 function onYouTubeIframeAPIReady() {
-  player = new YT.Player(&#39;player&#39;, {width: &#39;100%&#39;, height: &#39;100%&#39;, videoId: &#39;NaIDj6vBEoU&#39;})
+  player = new YT.Player(&#39;player&#39;, {width: &#39;100%&#39;, height: &#39;100%&#39;, videoId: &#39;NaIDj6vBEoU&#39;, playerVars: {playsinline: 1}})
   setInterval(function() {
     if(player.getPlayerState() != 1) return
     var curr = player.getCurrentTime()
@@ -1061,7 +1061,7 @@ firstScriptTag.parentNode.insertBefore(tag, firstScriptTag)
 
 var player
 function onYouTubeIframeAPIReady() {
-  player = new YT.Player(&#39;player&#39;, {width: &#39;100%&#39;, height: &#39;100%&#39;, videoId: &#39;NZWS6CITutY&#39;})
+  player = new YT.Player(&#39;player&#39;, {width: &#39;100%&#39;, height: &#39;100%&#39;, videoId: &#39;NZWS6CITutY&#39;, playerVars: {playsinline: 1}})
   setInterval(function() {
     if(player.getPlayerState() != 1) return
     var curr = player.getCurrentTime()
@@ -1117,73 +1117,204 @@ function pause() {
       <pubDate>Sat, 12 Nov 2016 08:15:52 +0900</pubDate>
       
       <guid>https://tily.github.io/recital/tencrackcommandments/</guid>
-      <description>&lt;p&gt;[Chuck D]&lt;/p&gt;
+      <description>&lt;p&gt;[Intro 1-1(Chuck D)]&lt;/p&gt;
 
-&lt;p&gt;1, 2, 3, 4, 5, 6, 7, 8, 9&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:02.0&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:02.0&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:02.0]&lt;/a&gt;
+ 1, 2, 3, 4, 5, 6, 7, 8,&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:04.75&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:04.75&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:04.75]&lt;/a&gt;
+ 9 / It&amp;rsquo;s the ten crack commandments,
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;[Intro]&lt;/p&gt;
+&lt;p&gt;[Intro 1-1]&lt;/p&gt;
 
-&lt;p&gt;It&amp;rsquo;s the ten crack commandments, what?&lt;br /&gt;
-Nigga can&amp;rsquo;t tell me nothing about this coke&lt;br /&gt;
-Can&amp;rsquo;t tell me nothing about this crack, this weed, my hustlin&amp;rsquo; niggas&lt;br /&gt;
-Niggas on the corner I ain&amp;rsquo;t forget you niggas, my triple beam niggas&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:07.51&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:07.51&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:07.51]&lt;/a&gt;
+ what?&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:10.27&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:10.27&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:10.27]&lt;/a&gt;
+ Nigga can&amp;rsquo;t tell me nothing about this coke&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:13.03&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:13.03&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:13.03]&lt;/a&gt;
+ Can&amp;rsquo;t tell me nothing about this crack, this weed,&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:15.79&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:15.79&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:15.79]&lt;/a&gt;
+ my hustlin&amp;rsquo; niggas&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:18.55&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:18.55&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:18.55]&lt;/a&gt;
+ Niggas on the corner I ain&amp;rsquo;t forget you niggas,&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:21.31&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:21.31&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:21.31]&lt;/a&gt;
+ my triple beam niggas&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:24.06&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:24.06&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:24.06]&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:26.82&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:26.82&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:26.82]&lt;/a&gt;
+ I&amp;rsquo;ve been in this&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;[Verse 1]&lt;/p&gt;
+&lt;p&gt;[Verse 1-1]&lt;/p&gt;
 
-&lt;p&gt;I&amp;rsquo;ve been in this game for years, it made me a animal&lt;br /&gt;
-There&amp;rsquo;s rules to this shit, I wrote me a manual&lt;br /&gt;
-A step-by-step booklet for you to get&lt;br /&gt;
-Your game on track, not your wig pushed back&lt;br /&gt;
-Rule Nombre Uno: never let no one know&lt;br /&gt;
-How much dough you hold cause you know&lt;br /&gt;
-The cheddar breed jealousy &amp;lsquo;specially&lt;br /&gt;
-If that man fucked up, get yo&amp;rsquo; ass stuck up&lt;br /&gt;
-Number 2: never let &amp;lsquo;em know your next move&lt;br /&gt;
-Don&amp;rsquo;t you know Bad Boys move in silence and violence?&lt;br /&gt;
-Take it from your highness&lt;br /&gt;
-I done squeezed mad clips at these cats for they bricks and chips&lt;br /&gt;
-Number 3: never trust nobody&lt;br /&gt;
-Your moms&amp;rsquo;ll set that ass up, properly gassed up&lt;br /&gt;
-Hoodied and masked up, shit, for that fast buck&lt;br /&gt;
-She be laying in the bushes to light that ass up&lt;br /&gt;
-Number 4: I know you heard this before&lt;br /&gt;
-&amp;ldquo;Never get high on your own supply&amp;rdquo;&lt;br /&gt;
-Number 5: never sell no crack where you rest at&lt;br /&gt;
-I don&amp;rsquo;t care if they want a ounce, tell &amp;lsquo;em &amp;ldquo;bounce!&amp;rdquo;&lt;br /&gt;
-Number 6: that goddamn credit? Dead it&lt;br /&gt;
-You think a crackhead paying you back, shit forget it!&lt;br /&gt;
-7: this rule is so underrated&lt;br /&gt;
-Keep your family and business completely separated&lt;br /&gt;
-Money and blood don&amp;rsquo;t mix like two dicks and no bitch&lt;br /&gt;
-Find yourself in serious shit&lt;br /&gt;
-Number 8: never keep no weight on you!&lt;br /&gt;
-Them cats that squeeze your guns can hold jums too&lt;br /&gt;
-Number 9 shoulda been Number 1 to me:&lt;br /&gt;
-If you ain&amp;rsquo;t gettin&amp;rsquo; bagged stay the fuck from police&lt;br /&gt;
-If niggas think you snitchin&amp;rsquo; they ain&amp;rsquo;t trying to listen&lt;br /&gt;
-They be sittin&amp;rsquo; in your kitchen, waiting to start hittin&amp;rsquo;&lt;br /&gt;
-Number 10: a strong word called &amp;ldquo;consignment&amp;rdquo;&lt;br /&gt;
-Strictly for live men, not for freshmen&lt;br /&gt;
-If you ain&amp;rsquo;t got the clientele, say &amp;ldquo;hell no!&amp;rdquo;&lt;br /&gt;
-Cause they gon&amp;rsquo; want they money rain sleet hail snow&lt;br /&gt;
-Follow these rules you&amp;rsquo;ll have mad bread to break up&lt;br /&gt;
-If not, 24 years on the wake up&lt;br /&gt;
-Slug hit your temple, watch your frame shake up&lt;br /&gt;
-Caretaker did your makeup, when you passed&lt;br /&gt;
-Your girl fucked my man Jake up&lt;br /&gt;
-Heard in three weeks she sniffed a whole half of cake up&lt;br /&gt;
-Heard she suck a good dick, and can hook a steak up&lt;br /&gt;
-Gotta go gotta go, more pies to bake up, word up&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:29.58&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:29.58&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:29.58]&lt;/a&gt;
+ game for years, it made me a animal&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:32.34&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:32.34&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:32.34]&lt;/a&gt;
+ There&amp;rsquo;s rules to this shit, I wrote me a manual&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:35.1&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:35.1&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:35.1]&lt;/a&gt;
+ A step-by-step booklet for you to get&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:37.86&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:37.86&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:37.86]&lt;/a&gt;
+ Your game on track, not your wig pushed back&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Crack King, Frank Wiz-zhite&lt;/p&gt;
+&lt;p&gt;[Verse 1-2]&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:40.62&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:40.62&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:40.62]&lt;/a&gt;
+ Rule Nombre Uno: never let no one know&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:43.37&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:43.37&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:43.37]&lt;/a&gt;
+ How much dough you hold cause you know&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:46.13&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:46.13&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:46.13]&lt;/a&gt;
+ The cheddar breed jealousy &amp;lsquo;specially / If that&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:48.89&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:48.89&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:48.89]&lt;/a&gt;
+ man fucked up, get yo&amp;rsquo; ass stuck up / Number&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[Verse 1-3]&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:51.65&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:51.65&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:51.65]&lt;/a&gt;
+ 2: never let &amp;lsquo;em know your next move / Don&amp;rsquo;t you&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:54.41&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:54.41&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:54.41]&lt;/a&gt;
+ know Bad Boys move in silence and violence?&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:57.17&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:57.17&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:57.17]&lt;/a&gt;
+ Take it from your highness / I done squeezed mad&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:59.93&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:59.93&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:59.93]&lt;/a&gt;
+ clips at these cats for they bricks and chips / Number&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[Verse 1-4]&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:02.68&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:02.68&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:02.68]&lt;/a&gt;
+ 3: never trust nobody / Your moms&amp;rsquo;ll&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:05.44&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:05.44&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:05.44]&lt;/a&gt;
+ set that ass up, properly gassed up / Hoo-&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:08.2&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:08.2&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:08.2]&lt;/a&gt;
+ died and masked up, shit, for that fast buck / She be&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:10.96&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:10.96&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:10.96]&lt;/a&gt;
+ laying in the bushes to light that ass up / Number&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[Verse 1-5]&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:13.72&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:13.72&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:13.72]&lt;/a&gt;
+ 4: I know you heard this before&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:16.48&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:16.48&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:16.48]&lt;/a&gt;
+ &amp;ldquo;Never get high on your own supply&amp;rdquo; / Number&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:19.24&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:19.24&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:19.24]&lt;/a&gt;
+ 5: never sell no crack where you rest at&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:22.0&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:22.0&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:22.0]&lt;/a&gt;
+ I don&amp;rsquo;t care if they want a ounce, tell &amp;lsquo;em &amp;ldquo;bounce!&amp;rdquo; / Number&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[Verse 1-6]&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:24.75&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:24.75&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:24.75]&lt;/a&gt;
+ 6: that goddamn credit? Dead it / You&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:27.51&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:27.51&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:27.51]&lt;/a&gt;
+ think a crackhead paying you back, shit forget it!&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:30.27&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:30.27&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:30.27]&lt;/a&gt;
+ 7: this rule is so underrated&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:33.03&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:33.03&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:33.03]&lt;/a&gt;
+ Keep your family and business completely separated&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[Verse 1-7]&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:35.79&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:35.79&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:35.79]&lt;/a&gt;
+ Money and blood don&amp;rsquo;t mix like two dicks and&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:38.55&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:38.55&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:38.55]&lt;/a&gt;
+ no bitch / Find yourself in serious shit / Number&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:41.31&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:41.31&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:41.31]&lt;/a&gt;
+ 8: never keep no weight on you! / Them&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:44.06&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:44.06&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:44.06]&lt;/a&gt;
+ cats that squeeze your guns can hold jums too / Number&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[Verse 1-8]&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:46.82&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:46.82&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:46.82]&lt;/a&gt;
+ 9 shoulda been Number 1 to me: / If you&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:49.58&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:49.58&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:49.58]&lt;/a&gt;
+ ain&amp;rsquo;t gettin&amp;rsquo; bagged stay the fuck from police / If&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:52.34&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:52.34&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:52.34]&lt;/a&gt;
+ niggas think you snitchin&amp;rsquo; they ain&amp;rsquo;t trying to listen / They be&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:55.1&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:55.1&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:55.1]&lt;/a&gt;
+ sittin&amp;rsquo; in your kitchen, waiting to start hittin&amp;rsquo; / Number&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[Verse 1-9]&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:57.86&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:57.86&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:57.86]&lt;/a&gt;
+ 10: a strong word called &amp;ldquo;consignment&amp;rdquo; / St-&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:00.62&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:00.62&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:00.62]&lt;/a&gt;
+ rictly for live men, not for freshmen / If&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:03.37&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:03.37&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:03.37]&lt;/a&gt;
+ you ain&amp;rsquo;t got the clientele, say &amp;ldquo;hell no!&amp;rdquo; / Cause&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:06.13&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:06.13&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:06.13]&lt;/a&gt;
+ they gon&amp;rsquo; want they money rain sleet hail snow&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[Verse 1-10]&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:08.89&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:08.89&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:08.89]&lt;/a&gt;
+ Follow these rules you&amp;rsquo;ll have mad bread to break up&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:11.65&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:11.65&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:11.65]&lt;/a&gt;
+ If not, 24 years on the wake up&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:14.41&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:14.41&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:14.41]&lt;/a&gt;
+ Slug hit your temple, watch your frame shake up&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:17.17&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:17.17&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:17.17]&lt;/a&gt;
+ Caretaker did your makeup, when you passed / Your&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[Verse 1-11]&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:19.93&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:19.93&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:19.93]&lt;/a&gt;
+ girl fucked my man Jake up / Heard in three weeks she&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:22.68&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:22.68&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:22.68]&lt;/a&gt;
+ sniffed a whole half of cake up / Heard she suck a good&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:25.44&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:25.44&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:25.44]&lt;/a&gt;
+ dick, and can hook a steak up / Gotta go gotta&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:28.2&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:28.2&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:28.2]&lt;/a&gt;
+ go, more pies to bake up, word up&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;[Premier Scratching]&lt;/p&gt;
 
-&lt;p&gt;(1, 2, 3, 5, 6, 7, 8&lt;br /&gt;
-1, 1, 2, 3, 4, 5&lt;br /&gt;
-1, 1, 1, 1, 1, 2, 3, 4, 4, 5&lt;br /&gt;
-1, 2, 3, 4, 5, 6, 7, 8, 9&lt;br /&gt;
-10&amp;hellip;&amp;hellip;.10)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:30.96&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:30.96&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:30.96]&lt;/a&gt;
+ Crack King, Frank Wiz-zhite&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:33.72&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:33.72&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:33.72]&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:36.48&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:36.48&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:36.48]&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:39.24&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:39.24&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:39.24]&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:42.0&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:42.0&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:42.0]&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:44.75&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:44.75&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:44.75]&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:47.51&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:47.51&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:47.51]&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:50.27&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:50.27&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:50.27]&lt;/a&gt;
+ 10&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[F.O]&lt;/p&gt;
 
 &lt;script&gt;
 var tag = document.createElement(&#39;script&#39;)
