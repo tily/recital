@@ -120,26 +120,26 @@ origin_url = "http://singjupost.com/steve-jobs-2005-stanford-commencement-addres
 
 [Paragraph]
 
-* {{<t "">}} My second story is about love and loss.
-* {{<t "">}} I was lucky -- I found what I loved to do early in life.
-* {{<t "">}} Woz and I started Apple in my parents' garage when I was 20.
-* {{<t "">}} We worked hard, and in 10 years Apple had grown from just the two of us in a garage
-* {{<t "">}} into a $2 billion company with over 4000 employees.
-* {{<t "">}} We had just released our finest creation -- the Macintosh -- a year earlier,
-* {{<t "">}} and I had just turned 30.
-* {{<t "">}} And then I got fired.
+* {{<t "05:39.1">}} My second story is about love and loss.
+* {{<t "05:44.5">}} I was lucky -- I found what I loved to do early in life.
+* {{<t "05:48.8">}} Woz and I started Apple in my parents' garage when I was 20.
+* {{<t "05:52.3">}} We worked hard, and in 10 years Apple had grown from just the two of us in a garage
+* {{<t "05:57.0">}} into a $2 billion company with over 4000 employees.
+* {{<t "06:00.5">}} We had just released our finest creation -- the Macintosh -- a year earlier,
+* {{<t "06:04.2">}} and I had just turned 30.
+* {{<t "06:06.6">}} And then I got fired.
 
 [Paragraph]
 
-* {{<t "">}} How can you get fired from a company you started?
-* {{<t "">}} Well, as Apple grew
-* {{<t "">}} we hired someone who I thought was very talented to run the company with me,
-* {{<t "">}} and for the first year or so things went well.
-* {{<t "">}} But then our visions of the future began to diverge and eventually we had a falling out.
-* {{<t "">}} When we did, our Board of Directors sided with him.
-* {{<t "">}} So at 30 I was out.
-* {{<t "">}} And very publicly out.
-* {{<t "">}} What had been the focus of my entire adult life was gone, and it was devastating.
+* {{<t "06:09.3">}} How can you get fired from a company you started?
+* {{<t "06:12.9">}} Well, as Apple grew
+* {{<t "06:14.9">}} we hired someone who I thought was very talented to run the company with me,
+* {{<t "06:18.9">}} and for the first year or so things went well.
+* {{<t "06:21.4">}} But then our visions of the future began to diverge and eventually we had a falling out.
+* {{<t "06:26.0">}} When we did, our Board of Directors sided with him.
+* {{<t "06:29.5">}} So at 30 I was out.
+* {{<t "06:31.5">}} And very publicly out.
+* {{<t "06:33.5">}} What had been the focus of my entire adult life was gone, and it was devastating.
 
 [Paragraph]
 

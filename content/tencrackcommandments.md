@@ -2,6 +2,8 @@
 draft = false
 date = "2016-11-12T08:15:52+09:00"
 title = "Ten Crack Commandments"
+youtube_start = 2.00
+youtube_bpm = 87
 +++
 
 [Intro 1-1(Chuck D)]

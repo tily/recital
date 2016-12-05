@@ -3178,44 +3178,44 @@ function pause() {
 &lt;p&gt;[Paragraph]&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;05:39.1&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;05:39.1&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[05:39.1]&lt;/a&gt;
  My second story is about love and loss.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;05:44.5&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;05:44.5&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[05:44.5]&lt;/a&gt;
  I was lucky &amp;ndash; I found what I loved to do early in life.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;05:48.8&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;05:48.8&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[05:48.8]&lt;/a&gt;
  Woz and I started Apple in my parents&amp;rsquo; garage when I was 20.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;05:52.3&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;05:52.3&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[05:52.3]&lt;/a&gt;
  We worked hard, and in 10 years Apple had grown from just the two of us in a garage&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;05:57.0&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;05:57.0&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[05:57.0]&lt;/a&gt;
  into a $2 billion company with over 4000 employees.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;06:00.5&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;06:00.5&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[06:00.5]&lt;/a&gt;
  We had just released our finest creation &amp;ndash; the Macintosh &amp;ndash; a year earlier,&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;06:04.2&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;06:04.2&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[06:04.2]&lt;/a&gt;
  and I had just turned 30.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;06:06.6&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;06:06.6&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[06:06.6]&lt;/a&gt;
  And then I got fired.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;[Paragraph]&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;06:09.3&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;06:09.3&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[06:09.3]&lt;/a&gt;
  How can you get fired from a company you started?&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;06:12.9&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;06:12.9&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[06:12.9]&lt;/a&gt;
  Well, as Apple grew&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;06:14.9&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;06:14.9&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[06:14.9]&lt;/a&gt;
  we hired someone who I thought was very talented to run the company with me,&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;06:18.9&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;06:18.9&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[06:18.9]&lt;/a&gt;
  and for the first year or so things went well.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;06:21.4&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;06:21.4&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[06:21.4]&lt;/a&gt;
  But then our visions of the future began to diverge and eventually we had a falling out.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;06:26.0&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;06:26.0&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[06:26.0]&lt;/a&gt;
  When we did, our Board of Directors sided with him.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;06:29.5&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;06:29.5&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[06:29.5]&lt;/a&gt;
  So at 30 I was out.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;06:31.5&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;06:31.5&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[06:31.5]&lt;/a&gt;
  And very publicly out.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;06:33.5&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;06:33.5&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[06:33.5]&lt;/a&gt;
  What had been the focus of my entire adult life was gone, and it was devastating.&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -4056,24 +4056,24 @@ function pause() {
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:00.5&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:00.5&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:00.5]&lt;/a&gt;
  Aight, fuck that shit! Word, word&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:03.17&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:03.17&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:03.17]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:03.18&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:03.18&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:03.18]&lt;/a&gt;
  Fuck that other shit, y&amp;rsquo;know what I&amp;rsquo;m sayin&amp;rsquo;?&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:05.83&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:05.83&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:05.83]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:05.86&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:05.86&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:05.86]&lt;/a&gt;
  We gonna do a lil somethin&amp;rsquo; like this&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:08.5&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:08.5&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:08.5]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:08.54&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:08.54&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:08.54]&lt;/a&gt;
  Y&amp;rsquo;know what I&amp;rsquo;m sayin&amp;rsquo;?  (Y&amp;rsquo;all doing that other shit)&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;[Intro 2]&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:11.17&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:11.17&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:11.17]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:11.22&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:11.22&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:11.22]&lt;/a&gt;
  Keep it on and on and on and on and&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:13.83&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:13.83&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:13.83]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:13.9&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:13.9&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:13.9]&lt;/a&gt;
  Know&amp;rsquo;m sayin&amp;rsquo;? Big Nas, Grand Wizard, what is it?&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:16.5&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:16.5&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:16.5]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:16.58&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:16.58&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:16.58]&lt;/a&gt;
  (It&amp;rsquo;s like…) Haha, you know what I&amp;rsquo;m sayin&amp;rsquo;?&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:19.17&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:19.17&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:19.17]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:19.27&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:19.27&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:19.27]&lt;/a&gt;
  Yo, go ahead and rip that shit, dun! / I rap for
 &lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -4081,21 +4081,21 @@ function pause() {
 &lt;p&gt;[Verse 1-1]&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:21.83&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:21.83&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:21.83]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:21.95&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:21.95&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:21.95]&lt;/a&gt;
  listeners, bluntheads, fly ladies, and prisoners / Hene-
 
 &lt;ul&gt;
 &lt;li&gt;blunthead = someone who is a heavy user of marijuana with their mode of smoking being blunts &lt;a href=&#34;http://www.urbandictionary.com/define.php?term=blunthead&#34;&gt;Urban Dictionary: blunthead&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:24.5&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:24.5&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:24.5]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:24.63&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:24.63&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:24.63]&lt;/a&gt;
  ssey-holders and old-school niggas / Then I be dissing a
 
 &lt;ul&gt;
 &lt;li&gt;dis = 【他動】非難する&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:27.17&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:27.17&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:27.17]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:27.31&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:27.31&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:27.31]&lt;/a&gt;
  unofficial that smoke Woolie Thai / I dropped out of&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:29.83&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:29.83&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:29.83]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:29.99&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:29.99&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:29.99]&lt;/a&gt;
  Cooley High / Gassed up by a cokehead cutie pie&lt;br /&gt;
 
 &lt;ul&gt;
@@ -4107,13 +4107,13 @@ function pause() {
 &lt;p&gt;[Verse 1-2]&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:32.5&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:32.5&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:32.5]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:32.67&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:32.67&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:32.67]&lt;/a&gt;
  Jungle survivor, fuck who&amp;rsquo;s the live-er&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:35.17&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:35.17&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:35.17]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:35.36&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:35.36&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:35.36]&lt;/a&gt;
  My man put the battery in my back / A difference from Energizer&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:37.83&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:37.83&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:37.83]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:38.04&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:38.04&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:38.04]&lt;/a&gt;
  Sentence begins indented with formality&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:40.5&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:40.5&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:40.5]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:40.72&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:40.72&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:40.72]&lt;/a&gt;
  My duration&amp;rsquo;s infinite, moneywise or physiology&lt;br /&gt;
 
 &lt;ul&gt;
@@ -4125,110 +4125,172 @@ function pause() {
 &lt;p&gt;[Verse 1-3]&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:43.17&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:43.17&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:43.17]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:43.4&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:43.4&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:43.4]&lt;/a&gt;
  Poetry, that&amp;rsquo;s a part of me, retardedly bop / I drop the
 
 &lt;ul&gt;
 &lt;li&gt;retareded = 知能の遅れた&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:45.83&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:45.83&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:45.83]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:46.08&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:46.08&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:46.08]&lt;/a&gt;
  ancient manifested hip-hop straight off the block / I&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:48.5&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:48.5&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:48.5]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:48.76&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:48.76&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:48.76]&lt;/a&gt;
  reminisce on park jams / My man was shot for his sheep coat&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:51.17&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:51.17&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:51.17]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:51.44&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:51.44&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:51.44]&lt;/a&gt;
  Chocolate incense make me see him drop in my weed smoke&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:53.83&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:53.83&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:53.83]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:54.13&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:54.13&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:54.13]&lt;/a&gt;
  It&amp;rsquo;s real, grew up in trife life, did times or white lines / The hype pipes,&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:56.5&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:56.5&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:56.5]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:56.81&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:56.81&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:56.81]&lt;/a&gt;
  murderous nighttimes / And knife fights and blight crimes&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:59.17&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:59.17&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:59.17]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;00:59.49&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;00:59.49&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[00:59.49]&lt;/a&gt;
  Chill on the block with Cognac, hold strap / With my&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:01.83&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:01.83&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:01.83]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:02.17&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:02.17&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:02.17]&lt;/a&gt;
  peeps that&amp;rsquo;s into drug money market into rap&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:04.5&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:04.5&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:04.5]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:04.85&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:04.85&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:04.85]&lt;/a&gt;
  No sign of the beast in the blue Chrysler / I guess that means&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:07.17&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:07.17&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:07.17]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:07.53&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:07.53&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:07.53]&lt;/a&gt;
  peace / For niggas, no sheisty vice to just snipe ya&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:09.83&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:09.83&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:09.83]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:10.22&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:10.22&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:10.22]&lt;/a&gt;
  Start off the dice-rolling mats for craps to cee-lo&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:12.5&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:12.5&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:12.5]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:12.9&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:12.9&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:12.9]&lt;/a&gt;
  With side-bets, I roll a deuce, nothing below / (Peace God!)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:15.17&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:15.17&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:15.17]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:15.58&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:15.58&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:15.58]&lt;/a&gt;
  Peace God – now the shit is explained / I&amp;rsquo;m taking&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:17.83&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:17.83&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:17.83]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:18.26&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:18.26&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:18.26]&lt;/a&gt;
  niggas on a trip straight through memory lane&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:20.5&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:20.5&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:20.5]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:20.94&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:20.94&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:20.94]&lt;/a&gt;
  It&amp;rsquo;s like that y&amp;rsquo;all…&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:23.17&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:23.17&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:23.17]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:23.62&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:23.62&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:23.62]&lt;/a&gt;
 
 &lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;[Hook]&lt;/p&gt;
+&lt;p&gt;[Hook 1]&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:25.83&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:25.83&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:25.83]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:26.31&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:26.31&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:26.31]&lt;/a&gt;
  &amp;ldquo;Now let me take a trip down memory lane&amp;rdquo;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:28.5&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:28.5&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:28.5]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:28.99&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:28.99&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:28.99]&lt;/a&gt;
  &amp;ldquo;Coming outta Queensbridge&amp;rdquo;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:31.17&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:31.17&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:31.17]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:31.67&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:31.67&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:31.67]&lt;/a&gt;
  &amp;ldquo;Now let me take a trip down memory lane&amp;rdquo;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:33.83&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:33.83&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:33.83]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:34.35&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:34.35&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:34.35]&lt;/a&gt;
  &amp;ldquo;Coming outta Queensbridge&amp;rdquo;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:36.5&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:36.5&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:36.5]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:37.03&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:37.03&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:37.03]&lt;/a&gt;
  &amp;ldquo;Now let me take a trip down memory lane&amp;rdquo;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:39.17&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:39.17&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:39.17]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:39.71&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:39.71&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:39.71]&lt;/a&gt;
  &amp;ldquo;Coming outta Queensbridge&amp;rdquo;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:41.83&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:41.83&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:41.83]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:42.39&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:42.39&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:42.39]&lt;/a&gt;
  &amp;ldquo;Now let me take a trip down memory lane&amp;rdquo;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:44.5&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:44.5&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:44.5]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:45.08&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:45.08&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:45.08]&lt;/a&gt;
  &amp;ldquo;Coming outta Queensbridge&amp;rdquo;&lt;br /&gt;
 &lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;[Verse 2]&lt;/p&gt;
+&lt;p&gt;[Verse 2-1]&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:47.17&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:47.17&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:47.17]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:47.76&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:47.76&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:47.76]&lt;/a&gt;
  One for the money, two for pussy and foreign cars&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:49.83&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:49.83&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:49.83]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:50.44&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:50.44&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:50.44]&lt;/a&gt;
  Three for Alizé, niggas deceased or behind bars&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:52.5&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:52.5&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:52.5]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:53.12&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:53.12&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:53.12]&lt;/a&gt;
  I rap divine, God; check the prognosis: is it real or showbiz?&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:55.17&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:55.17&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:55.17]&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:55.8&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:55.8&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:55.8]&lt;/a&gt;
  My window faces shootouts, drug overdoses&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Live amongst no roses, only the drama&lt;br /&gt;
-For real, a nickel-plate is my fate, my medicine is the ganja&lt;br /&gt;
-Here&amp;rsquo;s my basis, my razor embraces, many faces&lt;br /&gt;
-You&amp;rsquo;re telephone blown, black, stitches or fat shoelaces&lt;br /&gt;
-Peoples are petro, dramatic automatic .44 I let blow&lt;br /&gt;
-And back down po-po when I&amp;rsquo;m vexed so&lt;br /&gt;
-My pen taps the paper then my brain&amp;rsquo;s blank&lt;br /&gt;
-I see dark streets, hustlin&amp;rsquo; brothers who keep the same rank&lt;br /&gt;
-Pumpin&amp;rsquo; for somethin&amp;rsquo;, some&amp;rsquo;ll prosper, some fail&lt;br /&gt;
-Judges hanging niggas, uncorrect bails for direct sales&lt;br /&gt;
-My intellect prevails from a hanging cross with nails&lt;br /&gt;
-I reinforce the frail, with lyrics that&amp;rsquo;s real&lt;br /&gt;
-Word to Christ, a disciple of streets, trifle on beats&lt;br /&gt;
-I decipher prophecies through a mic and say &amp;ldquo;Peace.&amp;rdquo;&lt;br /&gt;
-I hung around the older crews&lt;br /&gt;
-While they sling smack to dingbats&lt;br /&gt;
-They spoke of Fat Cat; that nigga&amp;rsquo;s name made bell rings, black&lt;br /&gt;
-Some fiends scream, about Supreme Team&lt;br /&gt;
-A Jamaica Queens thing&lt;br /&gt;
-Uptown was Alpo, son, heard he was kingpin&lt;br /&gt;
-Yo, fuck &amp;ldquo;rap is real&amp;rdquo;, watch the herbs stand still&lt;br /&gt;
-Never talking to snakes, ‘cause the words of man kill&lt;br /&gt;
-True in the game, as long as blood is blue in my veins&lt;br /&gt;
-I pour my Heineken brew to my deceased crew on memory lane&lt;/p&gt;
+&lt;p&gt;[Verse 2-2]&lt;/p&gt;
 
-&lt;p&gt;[Hook]&lt;br /&gt;
-&amp;ldquo;Now let me take a trip down memory lane&amp;rdquo;&lt;br /&gt;
-&amp;ldquo;Coming outta Queensbridge&amp;rdquo;&lt;br /&gt;
-&amp;ldquo;Now let me take a trip down memory lane&amp;rdquo;&lt;br /&gt;
-&amp;ldquo;Coming outta Queensbridge&amp;rdquo;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;01:58.48&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;01:58.48&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[01:58.48]&lt;/a&gt;
+ Live amongst no roses, only the drama&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:01.17&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:01.17&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:01.17]&lt;/a&gt;
+ For real, a nickel-plate is my fate, my medicine is the ganja&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:03.85&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:03.85&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:03.85]&lt;/a&gt;
+ Here&amp;rsquo;s my basis, my razor embraces, many faces&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:06.53&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:06.53&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:06.53]&lt;/a&gt;
+ You&amp;rsquo;re telephone blown, black, stitches or fat shoelaces&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[Verse 2-3]&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:09.21&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:09.21&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:09.21]&lt;/a&gt;
+ Peoples are petro, dramatic automatic .44 I let blow&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:11.89&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:11.89&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:11.89]&lt;/a&gt;
+ And back down po-po when I&amp;rsquo;m vexed so&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:14.57&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:14.57&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:14.57]&lt;/a&gt;
+ My pen taps the paper then my brain&amp;rsquo;s blank&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:17.25&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:17.25&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:17.25]&lt;/a&gt;
+ I see dark streets, hustlin&amp;rsquo; brothers who keep the same rank&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[Verse 2-4]&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:19.94&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:19.94&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:19.94]&lt;/a&gt;
+ Pumpin&amp;rsquo; for somethin&amp;rsquo;, some&amp;rsquo;ll prosper, some fail&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:22.62&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:22.62&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:22.62]&lt;/a&gt;
+ Judges hanging niggas, uncorrect bails for direct sales&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:25.3&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:25.3&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:25.3]&lt;/a&gt;
+ My intellect prevails from a hanging cross with nails&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:27.98&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:27.98&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:27.98]&lt;/a&gt;
+ I reinforce the frail, with lyrics that&amp;rsquo;s real&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[Verse 2-5]&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:30.66&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:30.66&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:30.66]&lt;/a&gt;
+ Word to Christ, a disciple of streets, trifle on beats&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:33.34&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:33.34&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:33.34]&lt;/a&gt;
+ I decipher prophecies through a mic and say &amp;ldquo;Peace.&amp;rdquo;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:36.03&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:36.03&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:36.03]&lt;/a&gt;
+ I hung around the older crews&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:38.71&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:38.71&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:38.71]&lt;/a&gt;
+ While they sling smack to dingbats&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[Verse 2-6]&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:41.39&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:41.39&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:41.39]&lt;/a&gt;
+ They spoke of Fat Cat; that nigga&amp;rsquo;s name made bell rings, black&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:44.07&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:44.07&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:44.07]&lt;/a&gt;
+ Some fiends scream, about Supreme Team&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:46.75&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:46.75&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:46.75]&lt;/a&gt;
+ A Jamaica Queens thing&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:49.43&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:49.43&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:49.43]&lt;/a&gt;
+ Uptown was Alpo, son, heard he was kingpin&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[Verse 2-7]&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:52.12&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:52.12&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:52.12]&lt;/a&gt;
+ Yo, fuck &amp;ldquo;rap is real&amp;rdquo;, watch the herbs stand still&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:54.8&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:54.8&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:54.8]&lt;/a&gt;
+ Never talking to snakes, ‘cause the words of man kill&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;02:57.48&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;02:57.48&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[02:57.48]&lt;/a&gt;
+ True in the game, as long as blood is blue in my veins&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;03:00.16&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;03:00.16&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[03:00.16]&lt;/a&gt;
+ I pour my Heineken brew to my deceased crew on memory lane&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[Hook 2]&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;03:02.84&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;03:02.84&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[03:02.84]&lt;/a&gt;
+ &amp;ldquo;Now let me take a trip down memory lane&amp;rdquo;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;03:05.52&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;03:05.52&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[03:05.52]&lt;/a&gt;
+ &amp;ldquo;Coming outta Queensbridge&amp;rdquo;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;03:08.2&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;03:08.2&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[03:08.2]&lt;/a&gt;
+ &amp;ldquo;Now let me take a trip down memory lane&amp;rdquo;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34; onclick=&#34;return false&#34; ontouchstart=&#34;seek(&amp;#34;03:10.89&amp;#34;)&#34; onmousedown=&#34;seek(&amp;#34;03:10.89&amp;#34;)&#34; onmouseup=&#34;pause()&#34;&gt;[03:10.89]&lt;/a&gt;
+ &amp;ldquo;Coming outta Queensbridge&amp;rdquo;&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;[Outro: DJ Premier scracthing]&lt;br /&gt;
 &amp;ldquo;Coming out of Queensbridge&amp;rdquo; (X4)&lt;br /&gt;
